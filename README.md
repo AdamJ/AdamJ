@@ -47,4 +47,5 @@ If you have found something useful, don't forget to like/watch the project or se
 
 <!--
 Icons from https://fontawesome.com
+Stats from https://github.com/anuraghazra/github-readme-stats
 -->
