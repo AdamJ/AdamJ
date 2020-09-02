@@ -21,6 +21,9 @@
         <img alt="Medium" height="30" src="https://github.com/mindreeper2420/mindreeper2420/blob/master/assets/icons/medium-brands.svg?raw=true">
     </a>
 </p>
+<p align="center">
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ## Hi there 👋!
 
@@ -30,37 +33,18 @@ If you would like to see the varieties of my work, you can visit [adamjolicoeur.
 
 If you have found something useful, don't forget to like/watch the project or send me a note <img height="15" src="https://github.com/mindreeper2420/mindreeper2420/blob/master/assets/icons/at-solid.svg?raw=true">[adam@adamjolicoeur.com](mailto:adam@adamjolicoeur.com)!.
 
-## Goals for the future
+## Stats <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id">
 
-Interested in what I'm looking forward to or what I'm hoping to work on? Take a look below:
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mindreeper2420&show_icons=true&bg_color=45,45485e,00d4ff&text_color=fff&icon_color=fff&title_color=fff&include_all_commits=true"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindreeper2420&layout=compact">
 
-<img height="15" src="https://github.com/mindreeper2420/mindreeper2420/blob/master/assets/icons/laptop-code-solid.svg?raw=true">&nbsp;&nbsp;website designs and development
+## Pinned Repos
 
-&nbsp;<img height="15" src="https://github.com/mindreeper2420/mindreeper2420/blob/master/assets/icons/mobile-alt-solid.svg?raw=true">&nbsp;&nbsp;&nbsp;mobile applications/webapps
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mindreeper2420&repo=mindreeper2420.github.io">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mindreeper2420&repo=patternfly-org">
 
-<img height="15" src="https://github.com/mindreeper2420/mindreeper2420/blob/master/assets/icons/images-regular.svg?raw=true">&nbsp;&nbsp;logo creation
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mindreeper2420&repo=design-manual">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mindreeper2420&repo=kubevirt.github.io">
 
-<img height="15" src="https://github.com/mindreeper2420/mindreeper2420/blob/master/assets/icons/icons-solid.svg?raw=true">&nbsp;&nbsp;icon creation
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mindreeper2420&repo=patternfly">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mindreeper2420&repo=tutorial-web-app">
 
-![Number of visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
-
-
-
-
-<!--
-**mindreeper2420/mindreeper2420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!--
 Icons from https://fontawesome.com
 -->
