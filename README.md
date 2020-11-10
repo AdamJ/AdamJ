@@ -35,15 +35,15 @@ If you have found something useful, don't forget to like/watch the project or se
 
 ## Stats <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mindreeper2420&show_icons=true&bg_color=45,45485e,00d4ff&text_color=fff&icon_color=fff&title_color=fff&include_all_commits=true"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindreeper2420&layout=compact">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mindreeper2420&show_icons=true&bg_color=45,45485e,00d4ff&text_color=fff&icon_color=fff&title_color=fff&include_all_commits=true" width="420px"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindreeper2420&layout=compact" width="350px">
 
 ## Pinned Repos
 
-<a href="https://github.com/mindreeper2420/mindreeper2420.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mindreeper2420&repo=mindreeper2420.github.io"></a>&nbsp;<a href="https://github.com/mindreeper2420/patternfly-org"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mindreeper2420&repo=patternfly-org"></a>
+<a href="https://github.com/mindreeper2420/mindreeper2420.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mindreeper2420&repo=mindreeper2420.github.io" width="420px"></a>&nbsp;<a href="https://github.com/mindreeper2420/patternfly-org"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mindreeper2420&repo=patternfly-org" width="420px"></a>
 
-<a href="https://github.com/mindreeper2420/design-manual"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mindreeper2420&repo=design-manual"></a>&nbsp;<a href="https://github.com/mindreeper2420/kubevirt.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mindreeper2420&repo=kubevirt.github.io"></a>
+<a href="https://github.com/mindreeper2420/design-manual"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mindreeper2420&repo=design-manual" width="420px"></a>&nbsp;<a href="https://github.com/mindreeper2420/kubevirt.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mindreeper2420&repo=kubevirt.github.io" width="420px"></a>
 
-<a href="https://github.com/mindreeper2420/patternfly"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mindreeper2420&repo=patternfly"></a>&nbsp;<a href="https://github.com/mindreeper2420/tutorial-web-app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mindreeper2420&repo=tutorial-web-app"></a>
+<a href="https://github.com/mindreeper2420/patternfly"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mindreeper2420&repo=patternfly" width="420px"></a>&nbsp;<a href="https://github.com/mindreeper2420/tutorial-web-app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mindreeper2420&repo=tutorial-web-app" width="420px"></a>
 
 <!--
 Icons from https://fontawesome.com
