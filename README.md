@@ -1,24 +1,24 @@
 <p align="center">
     <a href="https://twitter.com/AdamJJolicoeur" target="top">
-        <img alt="Twitter" height="30" src="https://github.com/mindreeper2420/AdamJ/blob/master/assets/icons/twitter-square-brands.svg?raw=true">
+        <img alt="Twitter" height="30" src="https://github.com/AdamJ/AdamJ/blob/master/assets/icons/twitter-square-brands.svg?raw=true">
     </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/ajjolicoeur/" target="top">
-        <img alt="LinkedIn" height="30" src="https://github.com/mindreeper2420/AdamJ/blob/master/assets/icons/linkedin-brands.svg?raw=true">
+        <img alt="LinkedIn" height="30" src="https://github.com/AdamJ/AdamJ/blob/master/assets/icons/linkedin-brands.svg?raw=true">
     </a>&nbsp;&nbsp;
     <a href="https://codepen.io/AdamJ" target="top">
-        <img alt="CodePen" height="30" src="https://github.com/mindreeper2420/AdamJ/blob/master/assets/icons/codepen-brands.svg?raw=true">
+        <img alt="CodePen" height="30" src="https://github.com/AdamJ/AdamJ/blob/master/assets/icons/codepen-brands.svg?raw=true">
     </a>&nbsp;&nbsp;
     <a href="https://github.com/AdamJ" target="top">
-        <img alt="GitHub" height="30" src="https://github.com/mindreeper2420/AdamJ/blob/master/assets/icons/github-square-brands.svg?raw=true">
+        <img alt="GitHub" height="30" src="https://github.com/AdamJ/AdamJ/blob/master/assets/icons/github-square-brands.svg?raw=true">
     </a>&nbsp;&nbsp;
     <a href="https://www.adamjolicoeur.com" target="top">
         <img alt="Personal Website" height="30" src="https://github.com/AdamJ/AdamJ/blob/master/assets/icons/safari-brands.svg?raw=true">
     </a>&nbsp;&nbsp;
     <a href="https://dribbble.com/ajolicoeur" target="top">
-        <img alt="Dribbble" height="30" src="https://github.com/mindreeper2420/AdamJ/blob/master/assets/icons/dribbble-square-brands.svg?raw=true">
+        <img alt="Dribbble" height="30" src="https://github.com/AdamJ/AdamJ/blob/master/assets/icons/dribbble-square-brands.svg?raw=true">
     </a>&nbsp;&nbsp;
     <a href="https://medium.com/@adamjolicoeur" target="top">
-        <img alt="Medium" height="30" src="https://github.com/mindreeper2420/AdamJ/blob/master/assets/icons/medium-brands.svg?raw=true">
+        <img alt="Medium" height="30" src="https://github.com/AdamJ/AdamJ/blob/master/assets/icons/medium-brands.svg?raw=true">
     </a>
 </p>
 <p align="center">
