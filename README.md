@@ -19,6 +19,9 @@
     </a>&nbsp;&nbsp;
     <a href="https://medium.com/@adamjolicoeur" target="top">
         <img alt="Medium" height="30" src="https://github.com/AdamJ/AdamJ/blob/master/assets/icons/medium-brands.svg?raw=true">
+    </a>&nbsp;&nbsp;
+    <a href="https://dev.to/adamj" target="top">
+        <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Adam Jolicoeur's DEV Profile" height="30" width="30">
     </a>
 </p>
 <p align="center">
