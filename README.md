@@ -31,7 +31,7 @@ I create websites, designs, and prototypes for the enterprise world. I primarily
 
 If you would like to see the varieties of my work, you can visit [adamjolicoeur.com](https://www.adamjolicoeur.com) or browse my GitHub world, [@AdamJ](https://github.com/AdamJ).
 
-If you have found something useful, don't forget to like/watch the project or send me a note <img height="15" src="https://github.com/AdamJ/AdamJ/blob/master/assets/icons/at-solid.svg?raw=true">[adam@adamjolicoeur.com](mailto:adam@adamjolicoeur.com)!.
+If you have found something useful, don't forget to like/watch the project or send me a note: [adamjolicoeur@protonmail.com](mailto:adamjolicoeur@protonmail.com)!.
 
 ## Stats <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id">
 
