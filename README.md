@@ -35,7 +35,7 @@
 I create websites, designs, and prototypes for the enterprise world. I primarily use **Figma** for designing, **Procreate** for sketching, and various libraries for prototyping.
 When possible, I share my work with the open source community in order to help others, just as it has helped me.
 
-If you would like to see my work not available on GitHub, you can visit [adamjolicoeur.com](https://www.adamjolicoeur.com) or browse my GitHub world, [@AdamJ](https://github.com/AdamJ).
+If you would like to see my work not available on GitHub, you can visit [adamjolicoeur.com](https://www.adamjolicoeur.com).
 
 ## Stats <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" aria-hidden="true">
 
