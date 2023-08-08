@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://twitter.com/AdamJJolicoeur" target="top" alt="Link to Adam's Twitter profile">
-        <img alt="Twitter" height="30" src="https://github.com/AdamJ/AdamJ/blob/main/assets/icons/twitter-square-brands.svg?raw=true">
+	<a href="https://www.adamjolicoeur.com" target="top" alt="Link to Adam's personal site - adamjolicoeur.com">
+        <img alt="Personal Website" height="30" src="https://github.com/AdamJ/AdamJ/blob/main/assets/icons/safari-brands.svg?raw=true">
     </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/ajjolicoeur/" target="top" alt="Link to Adam's LinkedIn profile">
         <img alt="LinkedIn" height="30" src="https://github.com/AdamJ/AdamJ/blob/main/assets/icons/linkedin-brands.svg?raw=true">
@@ -11,17 +11,14 @@
     <a href="https://github.com/AdamJ" target="top" alt="Link to Adam's GitHub profile">
         <img alt="GitHub" height="30" src="https://github.com/AdamJ/AdamJ/blob/main/assets/icons/github-square-brands.svg?raw=true">
     </a>&nbsp;&nbsp;
-    <a href="https://www.adamjolicoeur.com" target="top" alt="Link to Adam's personal site - adamjolicoeur.com">
-        <img alt="Personal Website" height="30" src="https://github.com/AdamJ/AdamJ/blob/main/assets/icons/safari-brands.svg?raw=true">
-    </a>&nbsp;&nbsp;
     <a href="https://dribbble.com/ajolicoeur" target="top" alt="Link to Adam's Dribbble profile">
         <img alt="Dribbble" height="30" src="https://github.com/AdamJ/AdamJ/blob/main/assets/icons/dribbble-square-brands.svg?raw=true">
     </a>&nbsp;&nbsp;
-    <a href="https://medium.com/@adamjolicoeur" target="top" alt="Link to Adam's Medium page">
-        <img alt="Medium" height="30" src="https://github.com/AdamJ/AdamJ/blob/main/assets/icons/medium-brands.svg?raw=true">
-    </a>&nbsp;&nbsp;
     <a href="https://dev.to/adamj" target="top">
         <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Adam Jolicoeur's DEV Profile" height="30" width="30">
+    </a>&nbsp;&nbsp;
+    <a href="https://twitter.com/AdamJJolicoeur" target="top" alt="Link to Adam's Twitter profile">
+        <img alt="Twitter" height="30" src="https://github.com/AdamJ/AdamJ/blob/main/assets/icons/twitter-square-brands.svg?raw=true">
     </a>
 </p>
 <p align="center">
@@ -35,11 +32,10 @@
 
 ## Hi there 👋!
 
-I create websites, designs, and prototypes for the enterprise world. I primarily use **Sketch/Photoshop** for designing and **HTML/CSS** for my prototyping. When possible, I share my work with the open source community in order to help others, just as it has helped me.
+I create websites, designs, and prototypes for the enterprise world. I primarily use **Figma** for designing, **Procreate** for sketching, and various libraries for prototyping.
+When possible, I share my work with the open source community in order to help others, just as it has helped me.
 
-If you would like to see the varieties of my work, you can visit [adamjolicoeur.com](https://www.adamjolicoeur.com) or browse my GitHub world, [@AdamJ](https://github.com/AdamJ).
-
-If you have found something useful, don't forget to like/watch the project or send me a note: [adam@adamjolicoeur.com](mailto:adam@adamjolicoeur.com)!.
+If you would like to see my work not available on GitHub, you can visit [adamjolicoeur.com](https://www.adamjolicoeur.com) or browse my GitHub world, [@AdamJ](https://github.com/AdamJ).
 
 ## Stats <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" aria-hidden="true">
 
