@@ -31,17 +31,11 @@
 
 I'm a driven and passionate UX designer, specializing in data-intensive designs. You can find my work in products from Red Hat and Amazon, and in such communities as [Figma]() and [GitHub]().
 
-## Stats <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" aria-hidden="true">
+## Stats
+<img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" aria-hidden="true">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdamJ&show_icons=true&bg_color=45,45485e,00d4ff&text_color=fff&icon_color=fff&title_color=fff&include_all_commits=true" width="420px" aria-hidden="true"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamJ&layout=compact" width="350px" aria-hidden="true">
-
-## Pinned Repos
-
-<a href="https://github.com/AdamJ/AdamJ.github.io" alt="Pinned link to Adam's GitHub repo"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamJ&repo=AdamJ.github.io" width="420px" alt="AdamJ GitHub Stats card"></a>&nbsp;<a href="https://github.com/AdamJ/patternfly-org" alt="Pinned link to Adam's PatternFly repo"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamJ&repo=patternfly-org" width="420px" alt="Adam's PatternFly Org stats card"></a>
-
-<a href="https://github.com/AdamJ/design-manual" alt="Pinned link to Adam's Design Manual repo"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamJ&repo=design-manual" width="420px" alt="Design Manual stats card"></a>&nbsp;<a href="https://github.com/AdamJ/kubevirt.github.io" alt="Pinned link to Adam's Kubevirt.io repo"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamJ&repo=kubevirt.github.io" width="420px" alt="Kubevirt.io stats card"></a>
-
-<a href="https://github.com/AdamJ/patternfly" alt="Pinned link to Adam's PatternFly repo"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamJ&repo=patternfly" width="420px" alt="Adam's PatternFly repo stats card"></a>&nbsp;<a href="https://github.com/AdamJ/tutorial-web-app" alt="Pinned link to Adam's Tutorial web-app repo"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamJ&repo=tutorial-web-app" width="420px" alt="Tutorial web-app stats card"></a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AdamJ&show_icons=true&bg_color=45,45485e,00d4ff&text_color=fff&icon_color=fff&title_color=fff&include_all_commits=true" width="400px" aria-hidden="true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamJ&layout=compact" width="400px" aria-hidden="true">
 
 <!--
 Icons from https://fontawesome.com
