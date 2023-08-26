@@ -5,20 +5,17 @@
   <a href="https://www.linkedin.com/in/ajjolicoeur/" target="top" alt="Link to Adam's LinkedIn profile">
     <img alt="LinkedIn" height="30" src="https://github.com/AdamJ/AdamJ/blob/main/assets/icons/linkedin-brands.svg?raw=true">
   </a>&nbsp;&nbsp;
-  <a href="https://codepen.io/AdamJ" target="top" alt="Link to Adam's CodePen.io">
-    <img alt="CodePen" height="30" src="https://github.com/AdamJ/AdamJ/blob/main/assets/icons/codepen-brands.svg?raw=true">
-  </a>&nbsp;&nbsp;
   <a href="https://github.com/AdamJ" target="top" alt="Link to Adam's GitHub profile">
     <img alt="GitHub" height="30" src="https://github.com/AdamJ/AdamJ/blob/main/assets/icons/github-square-brands.svg?raw=true">
   </a>&nbsp;&nbsp;
   <a href="https://dribbble.com/ajolicoeur" target="top" alt="Link to Adam's Dribbble profile">
     <img alt="Dribbble" height="30" src="https://github.com/AdamJ/AdamJ/blob/main/assets/icons/dribbble-square-brands.svg?raw=true">
   </a>&nbsp;&nbsp;
+  <a href="https://codepen.io/AdamJ" target="top" alt="Link to Adam's CodePen.io">
+    <img alt="CodePen" height="30" src="https://github.com/AdamJ/AdamJ/blob/main/assets/icons/codepen-brands.svg?raw=true">
+  </a>&nbsp;&nbsp;
   <a href="https://dev.to/adamj" target="top">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Adam Jolicoeur's DEV Profile" height="30" width="30">
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/AdamJJolicoeur" target="top" alt="Link to Adam's Twitter profile">
-    <img alt="Twitter" height="30" src="https://github.com/AdamJ/AdamJ/blob/main/assets/icons/twitter-square-brands.svg?raw=true">
   </a>
 </p>
 <p align="center">
@@ -30,12 +27,9 @@
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub proficiency badge" aria-hidden="true"/>
 </p>
 
-## Hi there 👋!
+# Hi there 👋!
 
-I create websites, designs, and prototypes for the enterprise world. I primarily use **Figma** for designing, **Procreate** for sketching, and various libraries for prototyping.
-When possible, I share my work with the open source community in order to help others, just as it has helped me.
-
-If you would like to see my work not available on GitHub, you can visit [adamjolicoeur.com](https://www.adamjolicoeur.com).
+I'm a driven and passionate UX designer, specializing in data-intensive designs. You can find my work in products from Red Hat and Amazon, and in such communities as [Figma]() and [GitHub]().
 
 ## Stats <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" aria-hidden="true">
 
