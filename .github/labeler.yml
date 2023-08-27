@@ -2,7 +2,6 @@
 minor:
   - README.md
   - assets/**
-  - .github/**
 dependencies:
   - package-lock.json
 github-action:
