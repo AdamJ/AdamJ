@@ -21,3 +21,4 @@ I'm a driven and passionate UX designer, specializing in data-intensive designs.
 
 <!-- Icons from https://simpleicons.org -->
 <!-- Badges from https://shields.io -->
+<!-- Readme Stats from https://github.com/anuraghazra/github-readme-stats -->
