@@ -20,4 +20,4 @@ I'm a driven and passionate UX designer, specializing in data-intensive designs.
 ![Keybase PGP](https://img.shields.io/keybase/pgp/mindreeper2420?style=for-the-badge&logo=keybase&logoColor=%23fff)
 
 <!-- Icons from https://simpleicons.org -->
-<!-- Badges from -->
+<!-- Badges from https://shields.io -->
