@@ -1,43 +1,23 @@
-<p align="center">
-  <a href="https://www.adamjolicoeur.com" target="top" alt="Link to Adam's personal site - adamjolicoeur.com">
-    <img alt="Personal Website" height="30" src="https://github.com/AdamJ/AdamJ/blob/main/assets/icons/safari-brands.svg?raw=true">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ajjolicoeur/" target="top" alt="Link to Adam's LinkedIn profile">
-    <img alt="LinkedIn" height="30" src="https://github.com/AdamJ/AdamJ/blob/main/assets/icons/linkedin-brands.svg?raw=true">
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/AdamJ" target="top" alt="Link to Adam's GitHub profile">
-    <img alt="GitHub" height="30" src="https://github.com/AdamJ/AdamJ/blob/main/assets/icons/github-square-brands.svg?raw=true">
-  </a>&nbsp;&nbsp;
-  <a href="https://dribbble.com/ajolicoeur" target="top" alt="Link to Adam's Dribbble profile">
-    <img alt="Dribbble" height="30" src="https://github.com/AdamJ/AdamJ/blob/main/assets/icons/dribbble-square-brands.svg?raw=true">
-  </a>&nbsp;&nbsp;
-  <a href="https://codepen.io/AdamJ" target="top" alt="Link to Adam's CodePen.io">
-    <img alt="CodePen" height="30" src="https://github.com/AdamJ/AdamJ/blob/main/assets/icons/codepen-brands.svg?raw=true">
-  </a>&nbsp;&nbsp;
-  <a href="https://dev.to/adamj" target="top">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Adam Jolicoeur's DEV Profile" height="30" width="30">
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML proficiency badge" aria-hidden="true" />
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS proficiency badge" aria-hidden="true"/>
-  <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white" aria-hidden="true"/>
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown proficiency badge" aria-hidden="true"/>
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git proficiency badge" aria-hidden="true"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub proficiency badge" aria-hidden="true"/>
-</p>
-
 # Hi there 👋!
 
-I'm a driven and passionate UX designer, specializing in data-intensive designs. You can find my work in products from Red Hat and Amazon, and in such communities as [Figma]() and [GitHub]().
+I'm a driven and passionate UX designer, specializing in data-intensive designs. You can find my work in products from Red Hat and Amazon, and in such communities as [Figma]() and [GitHub](https://www.github.com/adamj).
+
+[![UXD Badge](https://img.shields.io/badge/UXD-orange?style=for-the-badge&logo=UX&logoColor=%23fff)](https://www.adamjolicoeur.com) [![Figma Badge](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=FIGMA&logoColor=%23fff)](https://www.figma.com/@switchback "Link to my Figma community page") ![CSS Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=%23fff) ![HTML Badge](https://img.shields.io/badge/HTML-navy?style=for-the-badge&logo=HTML5&logoColor=%23fff) [![CodePen Badge](https://img.shields.io/badge/CODEPEN-black?style=for-the-badge&logo=codepen&logoColor=%23fff)](https://codepen.io/AdamJolicoeur "Link to my CodePen page")
 
 ## Stats
-<img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" aria-hidden="true">
+![GitHub followers](https://img.shields.io/github/followers/adamj?style=for-the-badge&logo=GitHub&logoColor=%23fff&link=https%3A%2F%2Fwww.github.com%2Fadamj) ![GitHub release (with filter)](https://img.shields.io/github/v/release/adamj/adamj?style=for-the-badge&logo=GitHub&logoColor=%23fff)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AdamJ&show_icons=true&bg_color=45,45485e,00d4ff&text_color=fff&icon_color=fff&title_color=fff&include_all_commits=true" width="400px" aria-hidden="true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamJ&layout=compact" width="400px" aria-hidden="true">
+![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamj&show_icons=true&theme=transparent)
 
-<!--
-Icons from https://fontawesome.com
-Stats from https://github.com/anuraghazra/github-readme-stats
--->
+## Social
+
+[![Static Badge](https://img.shields.io/badge/LINKEDIN-PROFILE-blue?style=for-the-badge&logo=linkedin&logoColor=%23fff)](https://www.linkedin.com/in/ajjolicoeur/ "Link to my LinkedIn profile")
+
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/109566572934687761?domain=https%3A%2F%2Fmastodon.world&style=for-the-badge&logo=mastodon&logoColor=%23fff)](https://mastodon.world/@adamjol "Link to my Mastodon profile")
+
+[![Static Badge](https://img.shields.io/badge/DEV-PROFILE-blue?style=for-the-badge&logo=dev.to&logoColor=%23fff)](https://dev.to/adamj "Link to my Dev.to profile")
+
+![Keybase PGP](https://img.shields.io/keybase/pgp/mindreeper2420?style=for-the-badge&logo=keybase&logoColor=%23fff)
+
+<!-- Icons from https://simpleicons.org -->
+<!-- Badges from -->
