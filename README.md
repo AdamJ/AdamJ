@@ -1,6 +1,6 @@
 # Hi there 👋!
 
-I'm a driven and passionate UX designer, specializing in data-intensive designs. You can find my work in products from Red Hat and Amazon, and in such communities as [Figma](https://www.figma.com/@switchback) and [GitHub](https://www.github.com/adamj).
+I'm a driven and passionate UX designer, specializing in data-intensive designs. You can find my work in products from Red Hat and Amazon, and in such communities as [Figma](https://www.figma.com/@adamj) and [GitHub](https://www.github.com/adamj).
 
 [![UXD Badge](https://img.shields.io/badge/UXD-orange?style=for-the-badge&logo=UX&logoColor=%23fff)](https://www.adamjolicoeur.com) [![Figma Badge](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=FIGMA&logoColor=%23fff)](https://www.figma.com/@adamj "Link to my Figma community page") ![CSS Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=%23fff) ![HTML Badge](https://img.shields.io/badge/HTML-navy?style=for-the-badge&logo=HTML5&logoColor=%23fff) [![CodePen Badge](https://img.shields.io/badge/CODEPEN-black?style=for-the-badge&logo=codepen&logoColor=%23fff)](https://codepen.io/AdamJolicoeur "Link to my CodePen page")
 
