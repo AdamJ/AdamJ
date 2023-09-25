@@ -13,8 +13,6 @@ I'm a driven and passionate UX designer, specializing in data-intensive designs.
 
 [![Static Badge](https://img.shields.io/badge/LINKEDIN-PROFILE-blue?style=for-the-badge&logo=linkedin&logoColor=%23fff)](https://www.linkedin.com/in/ajjolicoeur/ "Link to my LinkedIn profile")
 
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/109566572934687761?domain=https%3A%2F%2Fmastodon.world&style=for-the-badge&logo=mastodon&logoColor=%23fff)](https://mastodon.world/@adamjol "Link to my Mastodon profile")
-
 [![Static Badge](https://img.shields.io/badge/DEV-PROFILE-blue?style=for-the-badge&logo=dev.to&logoColor=%23fff)](https://dev.to/adamj "Link to my Dev.to profile")
 
 [![Keybase PGP](https://img.shields.io/keybase/pgp/mindreeper2420?style=for-the-badge&logo=keybase&logoColor=%23fff)](https://keybase.io/mindreeper2420 "Link to my Keybase profile")
