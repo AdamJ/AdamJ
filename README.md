@@ -1,6 +1,10 @@
-# Hi there 👋!
+<img src="assets/AdamJ.jpeg" alt="Year in Review image" style="float: left; padding-right: 40px; max-height: 600px;"/>
+
+<img src="assets/animoji.png" alt="Year in Review image" style="float: right; max-height: 200px;"/>
+<h1>Hello there!</h1>
 
 I am a user experience designer, based out of Massachusetts. I enjoy building user-centered, data-intensive designs to make user’s lives easier. You can find my work in products from Red Hat and Amazon, and through communities such as [Figma](https://www.figma.com/@adamj) and [GitHub](https://www.github.com/adamj).
+
 
 <div style="display: flex; flex-direction: row; flex-grow: 1; flex-wrap: wrap; justify-content: start; gap: 16px 16px; margin: 32px 0;">
   <a href="https://www.linkedin.com/ajjolicoeur" alt="link to my LinkedIn profile" style="text-decoration: none !important;">
@@ -17,7 +21,7 @@ I am a user experience designer, based out of Massachusetts. I enjoy building us
   </a>
 </div>
 
-## Stats
+<h2>Stats</h2>
 
 <div style="display: flex; flex-direction: row; flex-grow: 1; flex-wrap: wrap; justify-content: start; gap: 16px 16px; margin: 32px 0;">
   <a href="https://github.com/AdamJ?tab=followers" alt="Link to followers list" style="text-decoration: none !important;">
