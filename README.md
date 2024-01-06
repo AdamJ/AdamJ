@@ -7,11 +7,11 @@ I am a user experience designer, based out of Massachusetts. I enjoy building us
 
 
 <div style="display: flex; flex-direction: row; flex-grow: 1; flex-wrap: wrap; justify-content: start; gap: 16px 16px; margin: 32px 0;">
-  <a href="www.linkedin.com/ajjolicoeur" alt="link to my LinkedIn profile" style="text-decoration: none !important;">
+  <a href="https://www.linkedin.com/ajjolicoeur" alt="link to my LinkedIn profile" style="text-decoration: none !important;">
     <img src="https://img.shields.io/badge/linkedin-profile?style=for-the-badge&logo=linkedin&color=%230A66C2" alt="LinkedIn badge" />
   </a>
   <a href="https://github.com/AdamJ" alt="Link to my GitHub profile" style="text-decoration: none !important;">
-    <img src="https://img.shields.io/badge/github-profile?style=for-the-badge&logo=GitHub&color=%23181717&link=https%3A%2F%2Fgithub.com%2FAdamJ" alt="GitHub badge" />
+    <img src="https://img.shields.io/badge/github-profile?style=for-the-badge&logo=GitHub&color=%23181717" alt="GitHub badge" />
   </a>
   <a href="https://www.figma.com/AdamJ" alt="Link to my Figma community page" style="text-decoration: none !important;">
     <img src="https://img.shields.io/badge/figma-profile?style=for-the-badge&logo=figma&logoColor=%23ffffff&color=%23F24E1E&" alt="Figma badge" />
@@ -27,11 +27,9 @@ I am a user experience designer, based out of Massachusetts. I enjoy building us
   <a href="https://github.com/AdamJ?tab=followers" alt="Link to followers list" style="text-decoration: none !important;">
     <img src="https://img.shields.io/github/followers/adamj?style=for-the-badge&logo=GitHub&logoColor=%23fff&link=https%3A%2F%2Fwww.github.com%2Fadamj" alt="GitHub followers count badge" />
   </a>
-
   <a href="https://github.com/AdamJ/AdamJ/releases" alt="Link to README releases" style="text-decoration: none !important;">
     <img src="https://img.shields.io/github/v/release/adamj/adamj?style=for-the-badge&logo=GitHub&logoColor=%23fff" alt="GitHub release badge" />
   </a>
-
   <a href="https://keybase.io/mindreeper2420" alt="Link to my Keybase profile" style="text-decoration: none !important;">
     <img src="https://img.shields.io/keybase/pgp/mindreeper2420?style=for-the-badge&logo=keybase&logoColor=%23fff" alt="Keybase badge" />
   </a>
