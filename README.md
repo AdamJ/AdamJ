@@ -1,10 +1,6 @@
-<img src="assets/AdamJ.jpeg" alt="Year in Review image" style="float: left; padding-right: 40px; max-height: 600px;"/>
-
-<img src="assets/animoji.png" alt="Year in Review image" style="float: right; max-height: 200px;"/>
-<h1>Hello there!</h1>
+# Hello there!
 
 I am a user experience designer, based out of Massachusetts. I enjoy building user-centered, data-intensive designs to make user’s lives easier. You can find my work in products from Red Hat and Amazon, and through communities such as [Figma](https://www.figma.com/@adamj) and [GitHub](https://www.github.com/adamj).
-
 
 <div style="display: flex; flex-direction: row; flex-grow: 1; flex-wrap: wrap; justify-content: start; gap: 16px 16px; margin: 32px 0;">
   <a href="https://www.linkedin.com/ajjolicoeur" alt="link to my LinkedIn profile" style="text-decoration: none !important;">
@@ -35,7 +31,7 @@ I am a user experience designer, based out of Massachusetts. I enjoy building us
   </a>
 </div>
 
-<div style="display: flex; flex-direction: row; flex-grow: 1; flex-wrap: wrap; justify-content: start; gap: 16px 16px;">
+<div style="display: flex; flex-direction: row; flex-grow: 1; flex-wrap: wrap; justify-content: start; content: flex-start; gap: 16px 16px;">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adamj&langs_count=5&hide_title=true&disable_animations=true&theme=dark"
@@ -48,6 +44,9 @@ I am a user experience designer, based out of Massachusetts. I enjoy building us
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamj" />
   </picture>
 </div>
+
+## My Year in Review for 2023
+<img src="assets/AdamJ.jpeg" alt="Year in Review image" height="400" />
 
 <!-- Icons from https://simpleicons.org -->
 <!-- Badges from https://shields.io -->
