@@ -9,7 +9,7 @@ I am a user experience designer, based out of Massachusetts. I enjoy building us
   <a href="https://github.com/AdamJ" alt="Link to my GitHub profile" style="text-decoration: none !important;">
     <img src="https://img.shields.io/badge/github-profile?style=for-the-badge&logo=GitHub&color=%23181717" alt="GitHub badge" />
   </a>
-  <a href="https://www.figma.com/AdamJ" alt="Link to my Figma community page" style="text-decoration: none !important;">
+  <a href="https://www.figma.com/@adamj" alt="Link to my Figma community page" style="text-decoration: none !important;">
     <img src="https://img.shields.io/badge/figma-profile?style=for-the-badge&logo=figma&logoColor=%23ffffff&color=%23F24E1E&" alt="Figma badge" />
   </a>
   <a href="https://dribbble.com/ajolicoeur" alt="Link to my Dribbble profile" style="text-decoration: none !important;">
