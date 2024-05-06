@@ -1,13 +1,10 @@
 # Hello there!
 
-I am a user experience designer, based out of Massachusetts. I enjoy building user-centered, data-intensive designs to make user’s lives easier. You can find my work in products from Red Hat and Amazon, and through communities such as [Figma](https://www.figma.com/@adamj) and [GitHub](https://www.github.com/adamj).
+I am a user experience designer, based out of Massachusetts. I enjoy building user-centered, data-intensive designs to make user’s lives easier. You can find my work in products from Red Hat and Amazon, and through communities such as [Figma](https://www.figma.com/@adamj) and, of course, here on [GitHub](https://www.github.com/adamj).
 
 <div style="display: flex; flex-direction: row; flex-grow: 1; flex-wrap: wrap; justify-content: start; gap: 16px 16px; margin: 32px 0;">
   <a href="https://www.linkedin.com/ajjolicoeur" alt="link to my LinkedIn profile" style="text-decoration: none !important;">
     <img src="https://img.shields.io/badge/linkedin-profile?style=for-the-badge&logo=linkedin&color=%230A66C2" alt="LinkedIn badge" />
-  </a>
-  <a href="https://github.com/AdamJ" alt="Link to my GitHub profile" style="text-decoration: none !important;">
-    <img src="https://img.shields.io/badge/github-profile?style=for-the-badge&logo=GitHub&color=%23181717" alt="GitHub badge" />
   </a>
   <a href="https://www.figma.com/@adamj" alt="Link to my Figma community page" style="text-decoration: none !important;">
     <img src="https://img.shields.io/badge/figma-profile?style=for-the-badge&logo=figma&logoColor=%23ffffff&color=%23F24E1E&" alt="Figma badge" />
@@ -31,22 +28,33 @@ I am a user experience designer, based out of Massachusetts. I enjoy building us
   </a>
 </div>
 
+<!-- Advanced stats -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=adamj&rank_icon=github&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=adamj&rank_icon=github&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=adamj&rank_icon=github&show_icons=true" />
+</picture>
+
+<!-- Language stats -->
 <div style="display: flex; flex-direction: row; flex-grow: 1; flex-wrap: wrap; justify-content: start; content: flex-start; gap: 16px 16px;">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adamj&langs_count=5&hide_title=true&disable_animations=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adamj&layout=compact&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adamj&langs_count=5&hide_title=true&disable_animations=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adamj&layout=compact&theme=light"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamj" />
   </picture>
 </div>
-
-## My Year in Review for 2023
-<img src="assets/AdamJ.jpeg" alt="Year in Review image" height="400" />
 
 <!-- Icons from https://simpleicons.org -->
 <!-- Badges from https://shields.io -->
