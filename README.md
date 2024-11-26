@@ -1,6 +1,6 @@
 # Hello there!
 
-I am a user experience designer, based out of Massachusetts. I enjoy building user-centered, data-intensive designs to make user’s lives easier. You can find my work in products from Red Hat and Amazon (AWS), and through communities such as [Figma](https://www.figma.com/@adamj) and, of course, here on [GitHub](https://www.github.com/adamj).
+I am a product manager and designer, based out of Massachusetts. I enjoy creating user-centered, data-intensive products to make user’s lives easier. You can find my work in products from Red Hat and Amazon (AWS), and through communities such as [Patternfly](https://www.patternfly.org) and [Figma](https://www.figma.com/@adamj. Take a look at my other projects here on [GitHub/AdamJ](https://www.github.com/adamj).
 
 <!--
 <a href="https://www.linkedin.com/ajjolicoeur" alt="link to my LinkedIn profile" style="text-decoration: none !important;">
