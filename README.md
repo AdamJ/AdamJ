@@ -34,3 +34,9 @@ Visit [adamjolicoeur.com](https://www.adamjolicoeur.com) for showcases and user 
 <!-- Updates Every Monday at 6PM UTC (1PM EST) -->
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#318](https://github.com/AdamJ/AdamJ.github.io/pull/318) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+2. 🎉 Merged PR [#317](https://github.com/AdamJ/AdamJ.github.io/pull/317) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+3. 💪 Opened PR [#317](https://github.com/AdamJ/AdamJ.github.io/pull/317) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+4. 🎉 Merged PR [#316](https://github.com/AdamJ/AdamJ.github.io/pull/316) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+5. 🎉 Merged PR [#14](https://github.com/AdamJ/casWOW/pull/14) in [AdamJ/casWOW](https://github.com/AdamJ/casWOW)
+<!--END_SECTION:activity-->
