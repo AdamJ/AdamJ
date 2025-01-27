@@ -34,9 +34,9 @@ Visit [adamjolicoeur.com](https://www.adamjolicoeur.com) for showcases and user 
 <!-- Updates Every Monday at 6PM UTC (1PM EST) -->
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#792](https://github.com/11ty/11ty-community/issues/792) in [11ty/11ty-community](https://github.com/11ty/11ty-community)
-2. ❗ Opened issue [#792](https://github.com/11ty/11ty-community/issues/792) in [11ty/11ty-community](https://github.com/11ty/11ty-community)
-3. 🎉 Merged PR [#319](https://github.com/AdamJ/AdamJ.github.io/pull/319) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-4. 💪 Opened PR [#319](https://github.com/AdamJ/AdamJ.github.io/pull/319) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-5. 🎉 Merged PR [#318](https://github.com/AdamJ/AdamJ.github.io/pull/318) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+1. ❗ Opened issue [#2579](https://github.com/dekkerglen/CubeCobra/issues/2579) in [dekkerglen/CubeCobra](https://github.com/dekkerglen/CubeCobra)
+2. 🔒 Closed issue [#792](https://github.com/11ty/11ty-community/issues/792) in [11ty/11ty-community](https://github.com/11ty/11ty-community)
+3. ❗ Opened issue [#792](https://github.com/11ty/11ty-community/issues/792) in [11ty/11ty-community](https://github.com/11ty/11ty-community)
+4. 🎉 Merged PR [#319](https://github.com/AdamJ/AdamJ.github.io/pull/319) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+5. 💪 Opened PR [#319](https://github.com/AdamJ/AdamJ.github.io/pull/319) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
 <!--END_SECTION:activity-->
