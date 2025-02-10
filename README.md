@@ -34,9 +34,9 @@ Visit [adamjolicoeur.com](https://www.adamjolicoeur.com) for showcases and user 
 <!-- Updates Every Monday at 6PM UTC (1PM EST) -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.1](https://github.com/AdamJ/my-mtg-app/releases/tag/0.1.1) in [AdamJ/my-mtg-app](https://github.com/AdamJ/my-mtg-app)
-2. 🚀 Published release [v0.1.0](https://github.com/AdamJ/my-mtg-app/releases/tag/0.1.0) in [AdamJ/my-mtg-app](https://github.com/AdamJ/my-mtg-app)
-3. 🎉 Merged PR [#321](https://github.com/AdamJ/AdamJ.github.io/pull/321) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-4. 🗣 Commented on [#321](https://github.com/AdamJ/AdamJ.github.io/pull/321#issuecomment-2643440963) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-5. 💪 Opened PR [#321](https://github.com/AdamJ/AdamJ.github.io/pull/321) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+1. 🚀 Published release [v0.2.0](https://github.com/AdamJ/my-mtg-app/releases/tag/0.2.0) in [AdamJ/my-mtg-app](https://github.com/AdamJ/my-mtg-app)
+2. 🚀 Published release [v0.1.1](https://github.com/AdamJ/my-mtg-app/releases/tag/0.1.1) in [AdamJ/my-mtg-app](https://github.com/AdamJ/my-mtg-app)
+3. 🚀 Published release [v0.1.0](https://github.com/AdamJ/my-mtg-app/releases/tag/0.1.0) in [AdamJ/my-mtg-app](https://github.com/AdamJ/my-mtg-app)
+4. 🎉 Merged PR [#321](https://github.com/AdamJ/AdamJ.github.io/pull/321) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+5. 🗣 Commented on [#321](https://github.com/AdamJ/AdamJ.github.io/pull/321#issuecomment-2643440963) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
 <!--END_SECTION:activity-->
