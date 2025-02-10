@@ -34,9 +34,9 @@ Visit [adamjolicoeur.com](https://www.adamjolicoeur.com) for showcases and user 
 <!-- Updates Every Monday at 6PM UTC (1PM EST) -->
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#320](https://github.com/AdamJ/AdamJ.github.io/issues/320) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-2. ❗ Opened issue [#2579](https://github.com/dekkerglen/CubeCobra/issues/2579) in [dekkerglen/CubeCobra](https://github.com/dekkerglen/CubeCobra)
-3. 🔒 Closed issue [#792](https://github.com/11ty/11ty-community/issues/792) in [11ty/11ty-community](https://github.com/11ty/11ty-community)
-4. ❗ Opened issue [#792](https://github.com/11ty/11ty-community/issues/792) in [11ty/11ty-community](https://github.com/11ty/11ty-community)
-5. 🎉 Merged PR [#319](https://github.com/AdamJ/AdamJ.github.io/pull/319) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+1. 🚀 Published release [v0.1.1](https://github.com/AdamJ/my-mtg-app/releases/tag/0.1.1) in [AdamJ/my-mtg-app](https://github.com/AdamJ/my-mtg-app)
+2. 🚀 Published release [v0.1.0](https://github.com/AdamJ/my-mtg-app/releases/tag/0.1.0) in [AdamJ/my-mtg-app](https://github.com/AdamJ/my-mtg-app)
+3. 🎉 Merged PR [#321](https://github.com/AdamJ/AdamJ.github.io/pull/321) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+4. 🗣 Commented on [#321](https://github.com/AdamJ/AdamJ.github.io/pull/321#issuecomment-2643440963) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+5. 💪 Opened PR [#321](https://github.com/AdamJ/AdamJ.github.io/pull/321) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
 <!--END_SECTION:activity-->
