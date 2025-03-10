@@ -34,9 +34,9 @@ Visit [adamjolicoeur.com](https://www.adamjolicoeur.com) for showcases and user 
 <!-- Updates Every Monday at 6PM UTC (1PM EST) -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/AdamJ/task-it/pull/16) in [AdamJ/task-it](https://github.com/AdamJ/task-it)
-2. 💪 Opened PR [#16](https://github.com/AdamJ/task-it/pull/16) in [AdamJ/task-it](https://github.com/AdamJ/task-it)
-3. 🎉 Merged PR [#15](https://github.com/AdamJ/task-it/pull/15) in [AdamJ/task-it](https://github.com/AdamJ/task-it)
-4. 💪 Opened PR [#15](https://github.com/AdamJ/task-it/pull/15) in [AdamJ/task-it](https://github.com/AdamJ/task-it)
-5. 🎉 Merged PR [#14](https://github.com/AdamJ/task-it/pull/14) in [AdamJ/task-it](https://github.com/AdamJ/task-it)
+1. 🎉 Merged PR [#26](https://github.com/AdamJ/task-it/pull/26) in [AdamJ/task-it](https://github.com/AdamJ/task-it)
+2. 💪 Opened PR [#26](https://github.com/AdamJ/task-it/pull/26) in [AdamJ/task-it](https://github.com/AdamJ/task-it)
+3. 🎉 Merged PR [#25](https://github.com/AdamJ/task-it/pull/25) in [AdamJ/task-it](https://github.com/AdamJ/task-it)
+4. 💪 Opened PR [#25](https://github.com/AdamJ/task-it/pull/25) in [AdamJ/task-it](https://github.com/AdamJ/task-it)
+5. 🎉 Merged PR [#24](https://github.com/AdamJ/task-it/pull/24) in [AdamJ/task-it](https://github.com/AdamJ/task-it)
 <!--END_SECTION:activity-->
