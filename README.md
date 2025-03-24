@@ -34,9 +34,9 @@ Visit [adamjolicoeur.com](https://www.adamjolicoeur.com) for showcases and user 
 <!-- Updates Every Monday at 6PM UTC (1PM EST) -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/AdamJ/casWOW/pull/15) in [AdamJ/casWOW](https://github.com/AdamJ/casWOW)
-2. 💪 Opened PR [#15](https://github.com/AdamJ/casWOW/pull/15) in [AdamJ/casWOW](https://github.com/AdamJ/casWOW)
-3. 🎉 Merged PR [#46](https://github.com/AdamJ/game-tracker/pull/46) in [AdamJ/game-tracker](https://github.com/AdamJ/game-tracker)
-4. 💪 Opened PR [#46](https://github.com/AdamJ/game-tracker/pull/46) in [AdamJ/game-tracker](https://github.com/AdamJ/game-tracker)
-5. 💪 Opened PR [#327](https://github.com/AdamJ/AdamJ.github.io/pull/327) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+1. 🔒 Closed issue [#325](https://github.com/AdamJ/AdamJ.github.io/issues/325) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+2. 🎉 Merged PR [#327](https://github.com/AdamJ/AdamJ.github.io/pull/327) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+3. 🎉 Merged PR [#4](https://github.com/ComponentAssemblySystems/casWOW/pull/4) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
+4. 💪 Opened PR [#4](https://github.com/ComponentAssemblySystems/casWOW/pull/4) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
+5. 🎉 Merged PR [#3](https://github.com/ComponentAssemblySystems/casWOW/pull/3) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
 <!--END_SECTION:activity-->
