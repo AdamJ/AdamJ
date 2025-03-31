@@ -34,9 +34,9 @@ Visit [adamjolicoeur.com](https://www.adamjolicoeur.com) for showcases and user 
 <!-- Updates Every Monday at 6PM UTC (1PM EST) -->
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#325](https://github.com/AdamJ/AdamJ.github.io/issues/325) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-2. 🎉 Merged PR [#327](https://github.com/AdamJ/AdamJ.github.io/pull/327) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-3. 🎉 Merged PR [#4](https://github.com/ComponentAssemblySystems/casWOW/pull/4) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
-4. 💪 Opened PR [#4](https://github.com/ComponentAssemblySystems/casWOW/pull/4) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
-5. 🎉 Merged PR [#3](https://github.com/ComponentAssemblySystems/casWOW/pull/3) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
+1. ❗ Opened issue [#5](https://github.com/AdamJ/CollectSomeMore/issues/5) in [AdamJ/CollectSomeMore](https://github.com/AdamJ/CollectSomeMore)
+2. ❗ Opened issue [#4](https://github.com/AdamJ/CollectSomeMore/issues/4) in [AdamJ/CollectSomeMore](https://github.com/AdamJ/CollectSomeMore)
+3. ❗ Opened issue [#3](https://github.com/AdamJ/CollectSomeMore/issues/3) in [AdamJ/CollectSomeMore](https://github.com/AdamJ/CollectSomeMore)
+4. 🚀 Published release [0.0.18](https://github.com/AdamJ/CollectSomeMore/releases/tag/0.0.18) in [AdamJ/CollectSomeMore](https://github.com/AdamJ/CollectSomeMore)
+5. 🔒 Closed issue [#325](https://github.com/AdamJ/AdamJ.github.io/issues/325) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
 <!--END_SECTION:activity-->
