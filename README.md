@@ -34,9 +34,9 @@ Visit [adamjolicoeur.com](https://www.adamjolicoeur.com) for showcases and user 
 <!-- Updates Every Monday at 6PM UTC (1PM EST) -->
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/AdamJ/CollectSomeMore/issues/5) in [AdamJ/CollectSomeMore](https://github.com/AdamJ/CollectSomeMore)
-2. ❗ Opened issue [#4](https://github.com/AdamJ/CollectSomeMore/issues/4) in [AdamJ/CollectSomeMore](https://github.com/AdamJ/CollectSomeMore)
-3. ❗ Opened issue [#3](https://github.com/AdamJ/CollectSomeMore/issues/3) in [AdamJ/CollectSomeMore](https://github.com/AdamJ/CollectSomeMore)
-4. 🚀 Published release [0.0.18](https://github.com/AdamJ/CollectSomeMore/releases/tag/0.0.18) in [AdamJ/CollectSomeMore](https://github.com/AdamJ/CollectSomeMore)
-5. 🔒 Closed issue [#325](https://github.com/AdamJ/AdamJ.github.io/issues/325) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+1. ❗ Opened issue [#6](https://github.com/AdamJ/CollectSomeMore/issues/6) in [AdamJ/CollectSomeMore](https://github.com/AdamJ/CollectSomeMore)
+2. 🎉 Merged PR [#53](https://github.com/AdamJ/game-tracker/pull/53) in [AdamJ/game-tracker](https://github.com/AdamJ/game-tracker)
+3. ❗ Opened issue [#339](https://github.com/AdamJ/AdamJ.github.io/issues/339) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+4. ❗ Opened issue [#338](https://github.com/AdamJ/AdamJ.github.io/issues/338) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+5. ❗ Opened issue [#337](https://github.com/AdamJ/AdamJ.github.io/issues/337) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
 <!--END_SECTION:activity-->
