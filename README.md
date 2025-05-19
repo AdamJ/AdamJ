@@ -34,8 +34,8 @@ Visit [adamjolicoeur.com](https://www.adamjolicoeur.com) for showcases and user 
 <!-- Updates Every Monday at 6PM UTC (1PM EST) -->
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#56](https://github.com/AdamJ/game-tracker/issues/56) in [AdamJ/game-tracker](https://github.com/AdamJ/game-tracker)
-2. ❗ Opened issue [#55](https://github.com/AdamJ/game-tracker/issues/55) in [AdamJ/game-tracker](https://github.com/AdamJ/game-tracker)
+1. 🎉 Merged PR [#343](https://github.com/AdamJ/AdamJ.github.io/pull/343) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+2. 💪 Opened PR [#343](https://github.com/AdamJ/AdamJ.github.io/pull/343) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
 3. 🎉 Merged PR [#342](https://github.com/AdamJ/AdamJ.github.io/pull/342) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
 4. 💪 Opened PR [#342](https://github.com/AdamJ/AdamJ.github.io/pull/342) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
 5. 🎉 Merged PR [#340](https://github.com/AdamJ/AdamJ.github.io/pull/340) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
