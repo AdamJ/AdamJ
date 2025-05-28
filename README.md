@@ -4,9 +4,7 @@
 ![Release badge](https://img.shields.io/github/v/release/adamj/adamj?style=for-the-badge&logo=GitHub&logoColor=%23fff)
 ![Keybase badge](https://img.shields.io/keybase/pgp/mindreeper2420?style=for-the-badge&logo=keybase&logoColor=%23fff)
 
-I am a product manager and designer, based out of Massachusetts. I enjoy creating user-centered, data-intensive products that improve workload and increase productivity. You can find my work in products from Red Hat and Amazon (AWS), and through communities such as [Patternfly](https://www.patternfly.org). Take a look at my other projects here on [GitHub/AdamJ](https://www.github.com/adamj).
-
-Visit [adamjolicoeur.com](https://www.adamjolicoeur.com) for showcases and user journeys.
+I am a product manager and designer, based out of Massachusetts. I enjoy creating user-centered, data-intensive products that improve workload and increase productivity. You can find my work in products from Red Hat and Amazon (AWS), and through communities such as [Patternfly](https://www.patternfly.org). Visit [adamjolicoeur.com](https://www.adamjolicoeur.com) for showcases and user journeys.
 
 <!--
 > Recent Activity automated using [GitHub Activity Readme Workflow](https://github.com/marketplace/actions/github-activity-readme)
