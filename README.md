@@ -32,9 +32,9 @@ I am a product manager and designer, based out of Massachusetts. I enjoy creatin
 <!-- Updates Every Monday at 6PM UTC (1PM EST) -->
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/AdamJ/CollectSomeMore/issues/8) in [AdamJ/CollectSomeMore](https://github.com/AdamJ/CollectSomeMore)
-2. 🎉 Merged PR [#348](https://github.com/AdamJ/AdamJ.github.io/pull/348) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-3. 💪 Opened PR [#348](https://github.com/AdamJ/AdamJ.github.io/pull/348) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-4. 🎉 Merged PR [#347](https://github.com/AdamJ/AdamJ.github.io/pull/347) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-5. 💪 Opened PR [#347](https://github.com/AdamJ/AdamJ.github.io/pull/347) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+1. 🎉 Merged PR [#6](https://github.com/AdamJ/researchandesign/pull/6) in [AdamJ/researchandesign](https://github.com/AdamJ/researchandesign)
+2. 💪 Opened PR [#6](https://github.com/AdamJ/researchandesign/pull/6) in [AdamJ/researchandesign](https://github.com/AdamJ/researchandesign)
+3. 🗣 Commented on [#350](https://github.com/AdamJ/AdamJ.github.io/pull/350#issuecomment-3015331849) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+4. 🎉 Merged PR [#51](https://github.com/AdamJ/integration-prototype/pull/51) in [AdamJ/integration-prototype](https://github.com/AdamJ/integration-prototype)
+5. 💪 Opened PR [#51](https://github.com/AdamJ/integration-prototype/pull/51) in [AdamJ/integration-prototype](https://github.com/AdamJ/integration-prototype)
 <!--END_SECTION:activity-->
