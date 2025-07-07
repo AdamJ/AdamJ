@@ -32,9 +32,9 @@ I am a product manager and designer, based out of Massachusetts. I enjoy creatin
 <!-- Updates Every Monday at 6PM UTC (1PM EST) -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/AdamJ/researchandesign/pull/6) in [AdamJ/researchandesign](https://github.com/AdamJ/researchandesign)
-2. 💪 Opened PR [#6](https://github.com/AdamJ/researchandesign/pull/6) in [AdamJ/researchandesign](https://github.com/AdamJ/researchandesign)
-3. 🗣 Commented on [#350](https://github.com/AdamJ/AdamJ.github.io/pull/350#issuecomment-3015331849) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-4. 🎉 Merged PR [#51](https://github.com/AdamJ/integration-prototype/pull/51) in [AdamJ/integration-prototype](https://github.com/AdamJ/integration-prototype)
-5. 💪 Opened PR [#51](https://github.com/AdamJ/integration-prototype/pull/51) in [AdamJ/integration-prototype](https://github.com/AdamJ/integration-prototype)
+1. 🗣 Commented on [#52](https://github.com/AdamJ/game-tracker/issues/52#issuecomment-3042047247) in [AdamJ/game-tracker](https://github.com/AdamJ/game-tracker)
+2. 🗣 Commented on [#50](https://github.com/AdamJ/game-tracker/issues/50#issuecomment-3042046273) in [AdamJ/game-tracker](https://github.com/AdamJ/game-tracker)
+3. 🗣 Commented on [#51](https://github.com/AdamJ/game-tracker/issues/51#issuecomment-3042043236) in [AdamJ/game-tracker](https://github.com/AdamJ/game-tracker)
+4. 🔒 Closed issue [#34](https://github.com/AdamJ/game-tracker/issues/34) in [AdamJ/game-tracker](https://github.com/AdamJ/game-tracker)
+5. 💪 Opened PR [#59](https://github.com/AdamJ/game-tracker/pull/59) in [AdamJ/game-tracker](https://github.com/AdamJ/game-tracker)
 <!--END_SECTION:activity-->
