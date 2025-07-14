@@ -32,9 +32,9 @@ I am a product manager and designer, based out of Massachusetts. I enjoy creatin
 <!-- Updates Every Monday at 6PM UTC (1PM EST) -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/AdamJ/game-tracker/issues/52#issuecomment-3042047247) in [AdamJ/game-tracker](https://github.com/AdamJ/game-tracker)
-2. 🗣 Commented on [#50](https://github.com/AdamJ/game-tracker/issues/50#issuecomment-3042046273) in [AdamJ/game-tracker](https://github.com/AdamJ/game-tracker)
-3. 🗣 Commented on [#51](https://github.com/AdamJ/game-tracker/issues/51#issuecomment-3042043236) in [AdamJ/game-tracker](https://github.com/AdamJ/game-tracker)
-4. 🔒 Closed issue [#34](https://github.com/AdamJ/game-tracker/issues/34) in [AdamJ/game-tracker](https://github.com/AdamJ/game-tracker)
-5. 💪 Opened PR [#59](https://github.com/AdamJ/game-tracker/pull/59) in [AdamJ/game-tracker](https://github.com/AdamJ/game-tracker)
+1. 🚀 Published release [v0.7.1](https://github.com/AdamJ/my-mtg-app/releases/tag/0.7.1) in [AdamJ/my-mtg-app](https://github.com/AdamJ/my-mtg-app)
+2. 🎉 Merged PR [#7](https://github.com/AdamJ/my-mtg-app/pull/7) in [AdamJ/my-mtg-app](https://github.com/AdamJ/my-mtg-app)
+3. 💪 Opened PR [#7](https://github.com/AdamJ/my-mtg-app/pull/7) in [AdamJ/my-mtg-app](https://github.com/AdamJ/my-mtg-app)
+4. 🎉 Merged PR [#6](https://github.com/AdamJ/my-mtg-app/pull/6) in [AdamJ/my-mtg-app](https://github.com/AdamJ/my-mtg-app)
+5. 💪 Opened PR [#6](https://github.com/AdamJ/my-mtg-app/pull/6) in [AdamJ/my-mtg-app](https://github.com/AdamJ/my-mtg-app)
 <!--END_SECTION:activity-->
