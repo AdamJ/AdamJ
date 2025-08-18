@@ -32,7 +32,7 @@ I am a product manager and designer, based out of Massachusetts. I enjoy creatin
 <!-- Updates Every Monday at 6PM UTC (1PM EST) -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.7.1](https://github.com/AdamJ/my-mtg-app/releases/tag/0.7.1) in [AdamJ/my-mtg-app](https://github.com/AdamJ/my-mtg-app)
+1. 🚀 Published release [0.1.0](https://github.com/AdamJ/TimeTrackerPro/releases/tag/0.1.0) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
 2. 🎉 Merged PR [#7](https://github.com/AdamJ/my-mtg-app/pull/7) in [AdamJ/my-mtg-app](https://github.com/AdamJ/my-mtg-app)
 3. 💪 Opened PR [#7](https://github.com/AdamJ/my-mtg-app/pull/7) in [AdamJ/my-mtg-app](https://github.com/AdamJ/my-mtg-app)
 4. 🎉 Merged PR [#6](https://github.com/AdamJ/my-mtg-app/pull/6) in [AdamJ/my-mtg-app](https://github.com/AdamJ/my-mtg-app)
