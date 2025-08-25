@@ -32,9 +32,9 @@ I am a product manager and designer, based out of Massachusetts. I enjoy creatin
 <!-- Updates Every Monday at 6PM UTC (1PM EST) -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.0](https://github.com/AdamJ/TimeTrackerPro/releases/tag/0.1.0) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-2. 🎉 Merged PR [#7](https://github.com/AdamJ/my-mtg-app/pull/7) in [AdamJ/my-mtg-app](https://github.com/AdamJ/my-mtg-app)
-3. 💪 Opened PR [#7](https://github.com/AdamJ/my-mtg-app/pull/7) in [AdamJ/my-mtg-app](https://github.com/AdamJ/my-mtg-app)
-4. 🎉 Merged PR [#6](https://github.com/AdamJ/my-mtg-app/pull/6) in [AdamJ/my-mtg-app](https://github.com/AdamJ/my-mtg-app)
+1. ❌ Closed PR [#354](https://github.com/AdamJ/AdamJ.github.io/pull/354) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+2. ❗ Opened issue [#355](https://github.com/AdamJ/AdamJ.github.io/issues/355) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+3. ❗ Opened issue [#353](https://github.com/AdamJ/AdamJ.github.io/issues/353) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+4. 🚀 Published release [0.1.0](https://github.com/AdamJ/TimeTrackerPro/releases/tag/0.1.0) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
 5. 💪 Opened PR [#6](https://github.com/AdamJ/my-mtg-app/pull/6) in [AdamJ/my-mtg-app](https://github.com/AdamJ/my-mtg-app)
 <!--END_SECTION:activity-->
