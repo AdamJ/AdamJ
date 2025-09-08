@@ -32,9 +32,9 @@ I am a product manager and designer, based out of Massachusetts. I enjoy creatin
 <!-- Updates Every Monday at 6PM UTC (1PM EST) -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#359](https://github.com/AdamJ/AdamJ.github.io/pull/359) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-2. 💪 Opened PR [#359](https://github.com/AdamJ/AdamJ.github.io/pull/359) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-3. 🔒 Closed issue [#355](https://github.com/AdamJ/AdamJ.github.io/issues/355) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-4. 🎉 Merged PR [#356](https://github.com/AdamJ/AdamJ.github.io/pull/356) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-5. 🎉 Merged PR [#357](https://github.com/AdamJ/AdamJ.github.io/pull/357) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+1. 💪 Opened PR [#366](undefined) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+2. 💪 Opened PR [#365](undefined) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+3. 💪 Opened PR [#364](undefined) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+4. 🗣 Commented on [#363](https://github.com/AdamJ/AdamJ.github.io/pull/363#issuecomment-3264373885) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+5. 🗣 Commented on [#363](https://github.com/AdamJ/AdamJ.github.io/pull/363#issuecomment-3264364362) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
 <!--END_SECTION:activity-->
