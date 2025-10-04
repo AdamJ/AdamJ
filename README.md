@@ -38,3 +38,7 @@ I am a product manager and designer, based out of Massachusetts. I enjoy creatin
 4. 🎉 Merged PR [#4](https://github.com/AdamJ/eleventy-blog/pull/4) in [AdamJ/eleventy-blog](https://github.com/AdamJ/eleventy-blog)
 5. 💪 Opened PR [#4](https://github.com/AdamJ/eleventy-blog/pull/4) in [AdamJ/eleventy-blog](https://github.com/AdamJ/eleventy-blog)
 <!--END_SECTION:activity-->
+
+## Hacktoberfest
+
+[![An image of @adamj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adamj)](https://holopin.io/@adamj)
