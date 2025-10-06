@@ -32,11 +32,11 @@ I am a product manager and designer, based out of Massachusetts. I enjoy creatin
 <!-- Updates Every Monday at 6PM UTC (1PM EST) -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/AdamJ/TimeTrackerPro/pull/3) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-2. 🎉 Merged PR [#2](https://github.com/AdamJ/TimeTrackerPro/pull/2) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-3. 💪 Opened PR [#2](https://github.com/AdamJ/TimeTrackerPro/pull/2) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-4. 🎉 Merged PR [#4](https://github.com/AdamJ/eleventy-blog/pull/4) in [AdamJ/eleventy-blog](https://github.com/AdamJ/eleventy-blog)
-5. 💪 Opened PR [#4](https://github.com/AdamJ/eleventy-blog/pull/4) in [AdamJ/eleventy-blog](https://github.com/AdamJ/eleventy-blog)
+1. 💪 Opened PR [#5](https://github.com/AdamJ/blog/pull/5) in [AdamJ/blog](https://github.com/AdamJ/blog)
+2. 🎉 Merged PR [#7](https://github.com/ComponentAssemblySystems/casWOW/pull/7) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
+3. 💪 Opened PR [#7](https://github.com/ComponentAssemblySystems/casWOW/pull/7) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
+4. 🎉 Merged PR [#6](https://github.com/ComponentAssemblySystems/casWOW/pull/6) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
+5. 💪 Opened PR [#6](https://github.com/ComponentAssemblySystems/casWOW/pull/6) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
 <!--END_SECTION:activity-->
 
 ## Hacktoberfest
