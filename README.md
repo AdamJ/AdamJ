@@ -32,11 +32,11 @@ I am a product manager and designer, based out of Massachusetts. I enjoy creatin
 <!-- Updates Every Monday at 6PM UTC (1PM EST) -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/AdamJ/blog/pull/5) in [AdamJ/blog](https://github.com/AdamJ/blog)
-2. 🎉 Merged PR [#7](https://github.com/ComponentAssemblySystems/casWOW/pull/7) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
-3. 💪 Opened PR [#7](https://github.com/ComponentAssemblySystems/casWOW/pull/7) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
-4. 🎉 Merged PR [#6](https://github.com/ComponentAssemblySystems/casWOW/pull/6) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
-5. 💪 Opened PR [#6](https://github.com/ComponentAssemblySystems/casWOW/pull/6) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
+1. 🚀 Published release [0.5.0](https://github.com/AdamJ/TimeTrackerPro/releases/tag/0.5.0) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+2. 🔒 Closed issue [#11](https://github.com/AdamJ/TimeTrackerPro/issues/11) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+3. 🎉 Merged PR [#12](https://github.com/AdamJ/TimeTrackerPro/pull/12) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+4. 💪 Opened PR [#12](https://github.com/AdamJ/TimeTrackerPro/pull/12) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+5. ❗ Opened issue [#11](https://github.com/AdamJ/TimeTrackerPro/issues/11) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
 <!--END_SECTION:activity-->
 
 ## Hacktoberfest
