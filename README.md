@@ -32,11 +32,11 @@ I am a product manager and designer, based out of Massachusetts. I enjoy creatin
 <!-- Updates Every Monday at 6PM UTC (1PM EST) -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.5.0](https://github.com/AdamJ/TimeTrackerPro/releases/tag/0.5.0) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-2. 🔒 Closed issue [#11](https://github.com/AdamJ/TimeTrackerPro/issues/11) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-3. 🎉 Merged PR [#12](https://github.com/AdamJ/TimeTrackerPro/pull/12) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-4. 💪 Opened PR [#12](https://github.com/AdamJ/TimeTrackerPro/pull/12) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-5. ❗ Opened issue [#11](https://github.com/AdamJ/TimeTrackerPro/issues/11) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+1. 🚀 Published release [0.7.0](https://github.com/AdamJ/TimeTrackerPro/releases/tag/0.7.0) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+2. ❌ Labeled PR [#17](undefined) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+3. ❌ Labeled PR [#17](undefined) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+4. ❌ Assigned PR [#17](undefined) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+5. 💪 Opened PR [#17](undefined) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
 <!--END_SECTION:activity-->
 
 ## Hacktoberfest
