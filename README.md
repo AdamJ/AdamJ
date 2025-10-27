@@ -32,11 +32,11 @@ I am a product manager and designer, based out of Massachusetts. I enjoy creatin
 <!-- Updates Every Monday at 6PM UTC (1PM EST) -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.7.0](https://github.com/AdamJ/TimeTrackerPro/releases/tag/0.7.0) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-2. ❌ Labeled PR [#17](undefined) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-3. ❌ Labeled PR [#17](undefined) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-4. ❌ Assigned PR [#17](undefined) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-5. 💪 Opened PR [#17](undefined) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+1. 💪 Opened PR [#11](undefined) in [AdamJ/blog](https://github.com/AdamJ/blog)
+2. 💪 Opened PR [#10](undefined) in [AdamJ/blog](https://github.com/AdamJ/blog)
+3. 💪 Opened PR [#9](undefined) in [AdamJ/blog](https://github.com/AdamJ/blog)
+4. 💪 Opened PR [#8](undefined) in [AdamJ/blog](https://github.com/AdamJ/blog)
+5. 💪 Opened PR [#7](undefined) in [AdamJ/blog](https://github.com/AdamJ/blog)
 <!--END_SECTION:activity-->
 
 ## Hacktoberfest
