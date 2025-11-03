@@ -32,11 +32,11 @@ I am a product manager and designer, based out of Massachusetts. I enjoy creatin
 <!-- Updates Every Monday at 6PM UTC (1PM EST) -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](undefined) in [AdamJ/blog](https://github.com/AdamJ/blog)
-2. 💪 Opened PR [#10](undefined) in [AdamJ/blog](https://github.com/AdamJ/blog)
-3. 💪 Opened PR [#9](undefined) in [AdamJ/blog](https://github.com/AdamJ/blog)
-4. 💪 Opened PR [#8](undefined) in [AdamJ/blog](https://github.com/AdamJ/blog)
-5. 💪 Opened PR [#7](undefined) in [AdamJ/blog](https://github.com/AdamJ/blog)
+1. 💪 Opened PR [#15](undefined) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
+2. 💪 Opened PR [#14](undefined) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
+3. ❌ Labeled PR [#13](undefined) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
+4. ❌ Labeled PR [#13](undefined) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
+5. 💪 Opened PR [#13](undefined) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
 <!--END_SECTION:activity-->
 
 ## Hacktoberfest
