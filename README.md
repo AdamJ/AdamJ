@@ -1,6 +1,6 @@
 # Hello there!
 
-![AdamJ's GitHub Banner](https://github.com/AdamJ/AdamJ/blob/main/AdamJ-readme-banner.png?raw=true)
+![AdamJ's GitHub Banner](https://github.com/AdamJ/AdamJ/blob/main/readme-banner.png?raw=true)
 
 <!-- I am a product manager and designer, based out of Massachusetts. I enjoy creating user-centered, data-intensive products that improve workload and increase productivity. You can find my work in products from Red Hat and Amazon (AWS), and through communities such as [Patternfly](https://www.patternfly.org). Visit [adamjolicoeur.com](https://www.adamjolicoeur.com) for showcases and user journeys. -->
 
