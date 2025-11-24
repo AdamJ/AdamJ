@@ -35,11 +35,11 @@ Each year, I participate in [Hacktoberfest](https://hacktoberfest.digitalocean.c
 <!-- Updates Every Monday at 6PM UTC (1PM EST) -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](undefined) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
-2. 💪 Opened PR [#14](undefined) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
-3. ❌ Labeled PR [#13](undefined) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
-4. ❌ Labeled PR [#13](undefined) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
-5. 💪 Opened PR [#13](undefined) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
+1. 💪 Opened PR [#19](undefined) in [AdamJ/AdamJ](https://github.com/AdamJ/AdamJ)
+2. 🚀 Published release [0.10.0](https://github.com/AdamJ/TimeTrackerPro/releases/tag/0.10.0) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+3. 💪 Opened PR [#28](undefined) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+4. 💪 Opened PR [#27](undefined) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+5. ❌ Closed PR [#2](undefined) in [AdamJ/productdesigns](https://github.com/AdamJ/productdesigns)
 <!--END_SECTION:activity-->
 
 ![Release badge](https://img.shields.io/github/v/release/adamj/adamj?style=for-the-badge&logo=GitHub&logoColor=%23fff)
