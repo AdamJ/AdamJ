@@ -31,5 +31,16 @@ Each year, I participate in [Hacktoberfest](https://hacktoberfest.digitalocean.c
   <img src="https://github-readme-stats.vercel.app/api?username=adamj&rank_icon=github&show_icons=true" />
 </picture>
 
+## Recent Activity
+<!-- Updates Every Monday at 6PM UTC (1PM EST) -->
+
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#15](undefined) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
+2. 💪 Opened PR [#14](undefined) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
+3. ❌ Labeled PR [#13](undefined) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
+4. ❌ Labeled PR [#13](undefined) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
+5. 💪 Opened PR [#13](undefined) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
+<!--END_SECTION:activity-->
+
 ![Release badge](https://img.shields.io/github/v/release/adamj/adamj?style=for-the-badge&logo=GitHub&logoColor=%23fff)
 ![Keybase badge](https://img.shields.io/keybase/pgp/mindreeper2420?style=for-the-badge&logo=keybase&logoColor=%23fff)
