@@ -17,20 +17,6 @@ Each year, I participate in [Hacktoberfest](https://hacktoberfest.digitalocean.c
 
 [![An image of @adamj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adamj)](https://holopin.io/@adamj)
 
-## GitHub Stats
-<!-- Advanced stats -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=adamj&rank_icon=github&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=adamj&rank_icon=github&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=adamj&rank_icon=github&show_icons=true" />
-</picture>
-
 ## Recent Activity
 <!-- Updates Every Monday at 6PM UTC (1PM EST) -->
 
