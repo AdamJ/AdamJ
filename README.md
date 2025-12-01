@@ -21,11 +21,11 @@ Each year, I participate in [Hacktoberfest](https://hacktoberfest.digitalocean.c
 <!-- Updates Every Monday at 6PM UTC (1PM EST) -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](undefined) in [AdamJ/AdamJ](https://github.com/AdamJ/AdamJ)
-2. 🚀 Published release [0.10.0](https://github.com/AdamJ/TimeTrackerPro/releases/tag/0.10.0) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-3. 💪 Opened PR [#28](undefined) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-4. 💪 Opened PR [#27](undefined) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-5. ❌ Closed PR [#2](undefined) in [AdamJ/productdesigns](https://github.com/AdamJ/productdesigns)
+1. 🔒 Closed issue [#328](https://github.com/AdamJ/AdamJ.github.io/issues/328) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+2. 💪 Opened PR [#378](undefined) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+3. 💪 Opened PR [#1](undefined) in [Product-Designs/productdesigns.github.io](https://github.com/Product-Designs/productdesigns.github.io)
+4. 💪 Opened PR [#30](undefined) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+5. 🔒 Closed issue [#18](https://github.com/AdamJ/TimeTrackerPro/issues/18) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
 <!--END_SECTION:activity-->
 
 ![Release badge](https://img.shields.io/github/v/release/adamj/adamj?style=for-the-badge&logo=GitHub&logoColor=%23fff)
