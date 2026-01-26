@@ -21,11 +21,11 @@ Each year, I participate in [Hacktoberfest](https://hacktoberfest.digitalocean.c
 <!-- Updates Every Monday at 6PM UTC (1PM EST) -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#385](https://github.com/AdamJ/AdamJ.github.io/pull/385) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-2. 💪 Opened PR [#385](https://github.com/AdamJ/AdamJ.github.io/pull/385) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-3. 🚀 Published release [v0.21.1](https://github.com/AdamJ/TimeTrackerPro/releases/tag/v0.21.1) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-4. 🎉 Merged PR [#51](https://github.com/AdamJ/TimeTrackerPro/pull/51) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-5. 💪 Opened PR [#51](https://github.com/AdamJ/TimeTrackerPro/pull/51) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+1. 🎉 Merged PR [#24](https://github.com/AdamJ/blog/pull/24) in [AdamJ/blog](https://github.com/AdamJ/blog)
+2. 💪 Opened PR [#24](https://github.com/AdamJ/blog/pull/24) in [AdamJ/blog](https://github.com/AdamJ/blog)
+3. ❌ Closed PR [#16](https://github.com/AdamJ/blog/pull/16) in [AdamJ/blog](https://github.com/AdamJ/blog)
+4. ❌ Closed PR [#8](https://github.com/AdamJ/blog/pull/8) in [AdamJ/blog](https://github.com/AdamJ/blog)
+5. 🎉 Merged PR [#23](https://github.com/AdamJ/blog/pull/23) in [AdamJ/blog](https://github.com/AdamJ/blog)
 <!--END_SECTION:activity-->
 
 ![Release badge](https://img.shields.io/github/v/release/adamj/adamj?style=for-the-badge&logo=GitHub&logoColor=%23fff)
