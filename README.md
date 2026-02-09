@@ -21,11 +21,11 @@ Each year, I participate in [Hacktoberfest](https://hacktoberfest.digitalocean.c
 <!-- Updates Every Monday at 6PM UTC (1PM EST) -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/AdamJ/TimeTrackerPro/pull/52) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-2. 💪 Opened PR [#52](https://github.com/AdamJ/TimeTrackerPro/pull/52) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-3. 🎉 Merged PR [#3](https://github.com/Product-Designs/WeeklySummaryGenerator/pull/3) in [Product-Designs/WeeklySummaryGenerator](https://github.com/Product-Designs/WeeklySummaryGenerator)
-4. 💪 Opened PR [#3](https://github.com/Product-Designs/WeeklySummaryGenerator/pull/3) in [Product-Designs/WeeklySummaryGenerator](https://github.com/Product-Designs/WeeklySummaryGenerator)
-5. 🎉 Merged PR [#24](https://github.com/AdamJ/blog/pull/24) in [AdamJ/blog](https://github.com/AdamJ/blog)
+1. 🎉 Merged PR [#53](https://github.com/AdamJ/TimeTrackerPro/pull/53) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+2. 💪 Opened PR [#53](https://github.com/AdamJ/TimeTrackerPro/pull/53) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+3. 🎉 Merged PR [#52](https://github.com/AdamJ/TimeTrackerPro/pull/52) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+4. 💪 Opened PR [#52](https://github.com/AdamJ/TimeTrackerPro/pull/52) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+5. 🎉 Merged PR [#3](https://github.com/Product-Designs/WeeklySummaryGenerator/pull/3) in [Product-Designs/WeeklySummaryGenerator](https://github.com/Product-Designs/WeeklySummaryGenerator)
 <!--END_SECTION:activity-->
 
 ![Release badge](https://img.shields.io/github/v/release/adamj/adamj?style=for-the-badge&logo=GitHub&logoColor=%23fff)
