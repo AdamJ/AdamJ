@@ -21,11 +21,11 @@ Each year, I participate in [Hacktoberfest](https://hacktoberfest.digitalocean.c
 <!-- Updates Every Monday at 6PM UTC (1PM EST) -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Product-Designs/WeeklySummaryGenerator/pull/5) in [Product-Designs/WeeklySummaryGenerator](https://github.com/Product-Designs/WeeklySummaryGenerator)
-2. ℹ️ Labeled PR [#5](https://github.com/Product-Designs/WeeklySummaryGenerator/pull/5) in [Product-Designs/WeeklySummaryGenerator](https://github.com/Product-Designs/WeeklySummaryGenerator)
-3. 💪 Opened PR [#5](https://github.com/Product-Designs/WeeklySummaryGenerator/pull/5) in [Product-Designs/WeeklySummaryGenerator](https://github.com/Product-Designs/WeeklySummaryGenerator)
-4. ℹ️ Assigned PR [#5](https://github.com/Product-Designs/WeeklySummaryGenerator/pull/5) in [Product-Designs/WeeklySummaryGenerator](https://github.com/Product-Designs/WeeklySummaryGenerator)
-5. 🚀 Published release [v0.23.0](https://github.com/AdamJ/TimeTrackerPro/releases/tag/v0.23.0) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+1. 🎉 Merged PR [#69](https://github.com/AdamJ/game-tracker/pull/69) in [AdamJ/game-tracker](https://github.com/AdamJ/game-tracker)
+2. 💪 Opened PR [#69](https://github.com/AdamJ/game-tracker/pull/69) in [AdamJ/game-tracker](https://github.com/AdamJ/game-tracker)
+3. ℹ️ Labeled issue [#4](https://github.com/AdamJ/TheMagicCollection/issues/4) in [AdamJ/TheMagicCollection](https://github.com/AdamJ/TheMagicCollection)
+4. ❗ Opened issue [#4](https://github.com/AdamJ/TheMagicCollection/issues/4) in [AdamJ/TheMagicCollection](https://github.com/AdamJ/TheMagicCollection)
+5. ℹ️ Labeled issue [#3](https://github.com/AdamJ/TheMagicCollection/issues/3) in [AdamJ/TheMagicCollection](https://github.com/AdamJ/TheMagicCollection)
 <!--END_SECTION:activity-->
 
 ![Release badge](https://img.shields.io/github/v/release/adamj/adamj?style=for-the-badge&logo=GitHub&logoColor=%23fff)
