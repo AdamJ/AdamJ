@@ -9,20 +9,21 @@ With over 15 years designing enterprise applications at AWS, Red Hat, and high-g
 ### AdamJ.github.io
 
 > A personal portfolio site showcasing my work as a Lead Product Designer and Product Manager.
->
-> [website](https://www.adamjolicoeur.com) | [repository](https://www.github.com/AdamJ/AdamJ.github.io)
+
+![Static Badge](https://img.shields.io/badge/adamjolicoeur.com-%23b34a2d?style=flat&logo=safari&link=https%3A%2F%2Fwww.adamjolicoeur.com) ![Static Badge](https://img.shields.io/badge/AdamJ.github.io-%23010101?style=flat&logo=GitHub&link=https%3A%2F%2Fwww.github.com/AdamJ/AdamJ.github.io)
 
 ### TimeTracker Pro
 
 > A modern, feature-rich time tracking application built with React, TypeScript, and Tailwind CSS. Perfect for freelancers, consultants, and professionals who need to track time, manage projects, and generate invoices.
->
-> [website](https://timetrackerpro.adamjolicoeur.me) | [repository](https://www.github.com/AdamJ/TimeTrackerPro)
+
+![Static Badge](https://img.shields.io/badge/TimeTrackerPro-%231e40af?style=flat&logo=safari&link=https%3A%2F%2Ftimetrackerpro.adamjolicoeur.me) ![Static Badge](https://img.shields.io/badge/TimeTrackerPro-%23010101?style=flat&logo=GitHub&link=https%3A%2F%2Fwww.github.com/AdamJ/timetrackerpro)
 
 ### GameTracker
 
 > A PWA providing users with the ability to track TCG (Tabletop Card Game) life totals, match histories, and tournament standings.
->
-> [website](https://gametracker.productdesigns.net) | [repository](https://www.github.com/AdamJ/game-tracker)
+
+![Static Badge](https://img.shields.io/badge/GameTracker-%233D684B?style=flat&logo=safari&link=https%3A%2F%2Fhttps://gametracker.productdesigns.net)
+ ![Static Badge](https://img.shields.io/badge/GameTracker-%23010101?style=flat&logo=GitHub&link=https%3A%2F%2Fwww.github.com/AdamJ/timetrackerpro)
 
 ## Hacktoberfest
 
@@ -30,16 +31,19 @@ Each year, I participate in [Hacktoberfest](https://hacktoberfest.digitalocean.c
 
 [![An image of @adamj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adamj)](https://holopin.io/@adamj)
 
-## Recent Activity
-<!-- Updates Every Monday at 6PM UTC (1PM EST) -->
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#69](https://github.com/AdamJ/game-tracker/pull/69) in [AdamJ/game-tracker](https://github.com/AdamJ/game-tracker)
-2. 💪 Opened PR [#69](https://github.com/AdamJ/game-tracker/pull/69) in [AdamJ/game-tracker](https://github.com/AdamJ/game-tracker)
-3. ℹ️ Labeled issue [#4](https://github.com/AdamJ/TheMagicCollection/issues/4) in [AdamJ/TheMagicCollection](https://github.com/AdamJ/TheMagicCollection)
-4. ❗ Opened issue [#4](https://github.com/AdamJ/TheMagicCollection/issues/4) in [AdamJ/TheMagicCollection](https://github.com/AdamJ/TheMagicCollection)
-5. ℹ️ Labeled issue [#3](https://github.com/AdamJ/TheMagicCollection/issues/3) in [AdamJ/TheMagicCollection](https://github.com/AdamJ/TheMagicCollection)
-<!--END_SECTION:activity-->
+## GitHub Stats
+<!-- Advanced stats -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=adamj&rank_icon=github&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=adamj&rank_icon=github&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=adamj&rank_icon=github&show_icons=true" />
+</picture>
 
 ![Release badge](https://img.shields.io/github/v/release/adamj/adamj?style=for-the-badge&logo=GitHub&logoColor=%23fff)
 ![Keybase badge](https://img.shields.io/keybase/pgp/mindreeper2420?style=for-the-badge&logo=keybase&logoColor=%23fff)
