@@ -1,15 +1,28 @@
 # Hello there!
 
-![AdamJ's GitHub Banner](https://github.com/AdamJ/AdamJ/blob/main/readme-banner.png?raw=true)
+I'm a Product Designer who ships code—and understands the business side.
 
-<!-- I am a product manager and designer, based out of Massachusetts. I enjoy creating user-centered, data-intensive products that improve workload and increase productivity. You can find my work in products from Red Hat and Amazon (AWS), and through communities such as [Patternfly](https://www.patternfly.org). Visit [adamjolicoeur.com](https://www.adamjolicoeur.com) for showcases and user journeys. -->
+With over 15 years designing enterprise applications at AWS, Red Hat, and high-growth B2B companies, I specialize in design systems and complex, data-intensive interfaces. I've shaped products used by millions of developers and contributed to some of the industry's most respected open-source design systems.
 
-<!--
-> Recent Activity automated using [GitHub Activity Readme Workflow](https://github.com/marketplace/actions/github-activity-readme)
-> Icons from [Simple Icons](https://simpleicons.org)
-> Badges from [Shields.io](https://shields.io)
-> Readme Stats from [Readme Stats Workflow](https://github.com/anuraghazra/github-readme-stats)
--->
+## Featured Projects
+
+### AdamJ.github.io
+
+> A personal portfolio site showcasing my work as a Lead Product Designer and Product Manager.
+>
+> [website](https://www.adamjolicoeur.com) | [repository](https://www.github.com/AdamJ/AdamJ.github.io)
+
+### TimeTracker Pro
+
+> A modern, feature-rich time tracking application built with React, TypeScript, and Tailwind CSS. Perfect for freelancers, consultants, and professionals who need to track time, manage projects, and generate invoices.
+>
+> [website](https://timetrackerpro.adamjolicoeur.me) | [repository](https://www.github.com/AdamJ/TimeTrackerPro)
+
+### GameTracker
+
+> A PWA providing users with the ability to track TCG (Tabletop Card Game) life totals, match histories, and tournament standings.
+>
+> [website](https://gametracker.productdesigns.net) | [repository](https://www.github.com/AdamJ/game-tracker)
 
 ## Hacktoberfest
 
