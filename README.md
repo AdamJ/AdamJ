@@ -4,6 +4,8 @@ I'm a Product Designer who ships code—and understands the business side.
 
 With over 15 years designing enterprise applications at AWS, Red Hat, and high-growth B2B companies, I specialize in design systems and complex, data-intensive interfaces. I've shaped products used by millions of developers and contributed to some of the industry's most respected open-source design systems.
 
+---
+
 ## Featured Projects
 
 ### AdamJ.github.io
@@ -25,25 +27,28 @@ With over 15 years designing enterprise applications at AWS, Red Hat, and high-g
 ![Static Badge](https://img.shields.io/badge/GameTracker-%233D684B?style=flat&logo=safari&link=https%3A%2F%2Fhttps://gametracker.productdesigns.net)
  ![Static Badge](https://img.shields.io/badge/GameTracker-%23010101?style=flat&logo=GitHub&link=https%3A%2F%2Fwww.github.com/AdamJ/timetrackerpro)
 
+---
+
 ## Hacktoberfest
 
 Each year, I participate in [Hacktoberfest](https://hacktoberfest.digitalocean.com/) to contribute to open source projects. You can find all of my badges, gained through contributions, on [Holopin.io/adamj](https://www.holopin.io/@adamj#badges).
 
 [![An image of @adamj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adamj)](https://holopin.io/@adamj)
 
-## GitHub Stats
-<!-- Advanced stats -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=adamj&rank_icon=github&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=adamj&rank_icon=github&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=adamj&rank_icon=github&show_icons=true" />
-</picture>
+---
+
+## Recent Activity
+<!-- Updates Every Monday at 11PM EST -->
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#69](https://github.com/AdamJ/game-tracker/pull/69) in [AdamJ/game-tracker](https://github.com/AdamJ/game-tracker)
+2. 💪 Opened PR [#69](https://github.com/AdamJ/game-tracker/pull/69) in [AdamJ/game-tracker](https://github.com/AdamJ/game-tracker)
+3. ℹ️ Labeled issue [#4](https://github.com/AdamJ/TheMagicCollection/issues/4) in [AdamJ/TheMagicCollection](https://github.com/AdamJ/TheMagicCollection)
+4. ❗ Opened issue [#4](https://github.com/AdamJ/TheMagicCollection/issues/4) in [AdamJ/TheMagicCollection](https://github.com/AdamJ/TheMagicCollection)
+5. ℹ️ Labeled issue [#3](https://github.com/AdamJ/TheMagicCollection/issues/3) in [AdamJ/TheMagicCollection](https://github.com/AdamJ/TheMagicCollection)
+<!--END_SECTION:activity-->
+
+---
 
 ![Release badge](https://img.shields.io/github/v/release/adamj/adamj?style=for-the-badge&logo=GitHub&logoColor=%23fff)
 ![Keybase badge](https://img.shields.io/keybase/pgp/mindreeper2420?style=for-the-badge&logo=keybase&logoColor=%23fff)
