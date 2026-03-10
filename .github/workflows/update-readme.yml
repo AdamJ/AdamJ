@@ -1,7 +1,7 @@
 name: Update README
 on:
   schedule:
-    - cron: "* 23 * * 1"
+    - cron: "0 23 * * 1"
   workflow_dispatch:
 jobs:
   build:
@@ -11,15 +11,15 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@v0.4.6
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           GH_USERNAME: AdamJ
           COMMIT_EMAIL: adam.jolicoeur@protonmail.com
           COMMIT_MSG: "Latest activity added to README"
-          MAX_LINES: 5
+          MAX_LINES: 10
           EMPTY_COMMIT_MSG: "No activity available to update"
           COMMIT_NAME: Automated GitHub Activity Readme Update
           TARGET_FILE: README.md
