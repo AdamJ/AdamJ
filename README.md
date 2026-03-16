@@ -41,11 +41,11 @@ Each year, I participate in [Hacktoberfest](https://hacktoberfest.digitalocean.c
 <!-- Updates Every Monday at 11PM EST -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#69](https://github.com/AdamJ/game-tracker/pull/69) in [AdamJ/game-tracker](https://github.com/AdamJ/game-tracker)
-2. 💪 Opened PR [#69](https://github.com/AdamJ/game-tracker/pull/69) in [AdamJ/game-tracker](https://github.com/AdamJ/game-tracker)
-3. ℹ️ Labeled issue [#4](https://github.com/AdamJ/TheMagicCollection/issues/4) in [AdamJ/TheMagicCollection](https://github.com/AdamJ/TheMagicCollection)
-4. ❗ Opened issue [#4](https://github.com/AdamJ/TheMagicCollection/issues/4) in [AdamJ/TheMagicCollection](https://github.com/AdamJ/TheMagicCollection)
-5. ℹ️ Labeled issue [#3](https://github.com/AdamJ/TheMagicCollection/issues/3) in [AdamJ/TheMagicCollection](https://github.com/AdamJ/TheMagicCollection)
+1. 🚀 Published release [v0.26.1](https://github.com/AdamJ/TimeTrackerPro/releases/tag/v0.26.1) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+2. 🎉 Merged PR [#388](https://github.com/AdamJ/AdamJ.github.io/pull/388) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+3. 💪 Opened PR [#388](https://github.com/AdamJ/AdamJ.github.io/pull/388) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+4. ℹ️ Assigned PR [#388](https://github.com/AdamJ/AdamJ.github.io/pull/388) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+5. 🎉 Merged PR [#387](https://github.com/AdamJ/AdamJ.github.io/pull/387) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
 <!--END_SECTION:activity-->
 
 ---
