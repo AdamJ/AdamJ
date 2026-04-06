@@ -41,11 +41,11 @@ Each year, I participate in [Hacktoberfest](https://hacktoberfest.digitalocean.c
 <!-- Updates Every Monday at 11PM EST -->
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#81](https://github.com/AdamJ/TimeTrackerPro/issues/81) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-2. ❗ Opened issue [#81](https://github.com/AdamJ/TimeTrackerPro/issues/81) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-3. ℹ️ Assigned issue [#81](https://github.com/AdamJ/TimeTrackerPro/issues/81) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-4. ℹ️ Labeled PR [#80](https://github.com/AdamJ/TimeTrackerPro/pull/80) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-5. ℹ️ Assigned PR [#80](https://github.com/AdamJ/TimeTrackerPro/pull/80) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+1. 🚀 Published release [v0.3-alpha](https://github.com/ComponentAssemblySystems/casWOW/releases/tag/v0.3-alpha) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
+2. 🎉 Merged PR [#23](https://github.com/ComponentAssemblySystems/casWOW/pull/23) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
+3. ℹ️ Assigned PR [#23](https://github.com/ComponentAssemblySystems/casWOW/pull/23) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
+4. 💪 Opened PR [#23](https://github.com/ComponentAssemblySystems/casWOW/pull/23) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
+5. 🎉 Merged PR [#391](https://github.com/AdamJ/AdamJ.github.io/pull/391) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
 <!--END_SECTION:activity-->
 
 ---
