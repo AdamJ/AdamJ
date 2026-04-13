@@ -41,11 +41,11 @@ Each year, I participate in [Hacktoberfest](https://hacktoberfest.digitalocean.c
 <!-- Updates Every Monday at 11PM EST -->
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.3-alpha](https://github.com/ComponentAssemblySystems/casWOW/releases/tag/v0.3-alpha) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
-2. 🎉 Merged PR [#23](https://github.com/ComponentAssemblySystems/casWOW/pull/23) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
-3. ℹ️ Assigned PR [#23](https://github.com/ComponentAssemblySystems/casWOW/pull/23) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
-4. 💪 Opened PR [#23](https://github.com/ComponentAssemblySystems/casWOW/pull/23) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
-5. 🎉 Merged PR [#391](https://github.com/AdamJ/AdamJ.github.io/pull/391) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+1. ❌ Closed PR [#21](https://github.com/ComponentAssemblySystems/casWOW/pull/21) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
+2. 🎉 Merged PR [#394](https://github.com/AdamJ/AdamJ.github.io/pull/394) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+3. ℹ️ Assigned PR [#394](https://github.com/AdamJ/AdamJ.github.io/pull/394) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+4. 💪 Opened PR [#394](https://github.com/AdamJ/AdamJ.github.io/pull/394) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+5. 🎉 Merged PR [#393](https://github.com/AdamJ/AdamJ.github.io/pull/393) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
 <!--END_SECTION:activity-->
 
 ---
