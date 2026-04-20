@@ -41,11 +41,11 @@ Each year, I participate in [Hacktoberfest](https://hacktoberfest.digitalocean.c
 <!-- Updates Every Monday at 11PM EST -->
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#21](https://github.com/ComponentAssemblySystems/casWOW/pull/21) in [ComponentAssemblySystems/casWOW](https://github.com/ComponentAssemblySystems/casWOW)
-2. 🎉 Merged PR [#394](https://github.com/AdamJ/AdamJ.github.io/pull/394) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-3. ℹ️ Assigned PR [#394](https://github.com/AdamJ/AdamJ.github.io/pull/394) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-4. 💪 Opened PR [#394](https://github.com/AdamJ/AdamJ.github.io/pull/394) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-5. 🎉 Merged PR [#393](https://github.com/AdamJ/AdamJ.github.io/pull/393) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+1. 🎉 Merged PR [#7](https://github.com/ComponentAssemblySystems/sheetrock-design/pull/7) in [ComponentAssemblySystems/sheetrock-design](https://github.com/ComponentAssemblySystems/sheetrock-design)
+2. 💪 Opened PR [#7](https://github.com/ComponentAssemblySystems/sheetrock-design/pull/7) in [ComponentAssemblySystems/sheetrock-design](https://github.com/ComponentAssemblySystems/sheetrock-design)
+3. ℹ️ Assigned PR [#7](https://github.com/ComponentAssemblySystems/sheetrock-design/pull/7) in [ComponentAssemblySystems/sheetrock-design](https://github.com/ComponentAssemblySystems/sheetrock-design)
+4. 🎉 Merged PR [#6](https://github.com/ComponentAssemblySystems/sheetrock-design/pull/6) in [ComponentAssemblySystems/sheetrock-design](https://github.com/ComponentAssemblySystems/sheetrock-design)
+5. 💪 Opened PR [#6](https://github.com/ComponentAssemblySystems/sheetrock-design/pull/6) in [ComponentAssemblySystems/sheetrock-design](https://github.com/ComponentAssemblySystems/sheetrock-design)
 <!--END_SECTION:activity-->
 
 ---
