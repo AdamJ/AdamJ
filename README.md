@@ -41,11 +41,11 @@ Each year, I participate in [Hacktoberfest](https://hacktoberfest.digitalocean.c
 <!-- Updates Every Monday at 11PM EST -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/ComponentAssemblySystems/sheetrock-design/pull/7) in [ComponentAssemblySystems/sheetrock-design](https://github.com/ComponentAssemblySystems/sheetrock-design)
-2. 💪 Opened PR [#7](https://github.com/ComponentAssemblySystems/sheetrock-design/pull/7) in [ComponentAssemblySystems/sheetrock-design](https://github.com/ComponentAssemblySystems/sheetrock-design)
-3. ℹ️ Assigned PR [#7](https://github.com/ComponentAssemblySystems/sheetrock-design/pull/7) in [ComponentAssemblySystems/sheetrock-design](https://github.com/ComponentAssemblySystems/sheetrock-design)
-4. 🎉 Merged PR [#6](https://github.com/ComponentAssemblySystems/sheetrock-design/pull/6) in [ComponentAssemblySystems/sheetrock-design](https://github.com/ComponentAssemblySystems/sheetrock-design)
-5. 💪 Opened PR [#6](https://github.com/ComponentAssemblySystems/sheetrock-design/pull/6) in [ComponentAssemblySystems/sheetrock-design](https://github.com/ComponentAssemblySystems/sheetrock-design)
+1. ℹ️ Assigned issue [#67](https://github.com/AdamJ/TimeTrackerPro/issues/67) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+2. 🔒 Closed issue [#73](https://github.com/AdamJ/TimeTrackerPro/issues/73) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+3. ℹ️ Labeled PR [#108](https://github.com/AdamJ/TimeTrackerPro/pull/108) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+4. ℹ️ Labeled PR [#108](https://github.com/AdamJ/TimeTrackerPro/pull/108) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+5. ℹ️ Assigned issue [#73](https://github.com/AdamJ/TimeTrackerPro/issues/73) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
 <!--END_SECTION:activity-->
 
 ---
