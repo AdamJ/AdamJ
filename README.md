@@ -41,11 +41,11 @@ Each year, I participate in [Hacktoberfest](https://hacktoberfest.digitalocean.c
 <!-- Updates Every Monday at 11PM EST -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#168](https://github.com/AdamJ/TimeTrackerPro/pull/168) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-2. 💪 Opened PR [#168](https://github.com/AdamJ/TimeTrackerPro/pull/168) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-3. 🎉 Merged PR [#167](https://github.com/AdamJ/TimeTrackerPro/pull/167) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-4. ℹ️ Unlabeled PR [#167](https://github.com/AdamJ/TimeTrackerPro/pull/167) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
-5. ℹ️ Labeled PR [#167](https://github.com/AdamJ/TimeTrackerPro/pull/167) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+1. 🎉 Merged PR [#2](https://github.com/AdamJ/productdesign-skills/pull/2) in [AdamJ/productdesign-skills](https://github.com/AdamJ/productdesign-skills)
+2. 💪 Opened PR [#2](https://github.com/AdamJ/productdesign-skills/pull/2) in [AdamJ/productdesign-skills](https://github.com/AdamJ/productdesign-skills)
+3. 🎉 Merged PR [#1](https://github.com/AdamJ/productdesign-marketplace/pull/1) in [AdamJ/productdesign-marketplace](https://github.com/AdamJ/productdesign-marketplace)
+4. 🎉 Merged PR [#1](https://github.com/AdamJ/productdesign-skills/pull/1) in [AdamJ/productdesign-skills](https://github.com/AdamJ/productdesign-skills)
+5. 💪 Opened PR [#1](https://github.com/AdamJ/productdesign-marketplace/pull/1) in [AdamJ/productdesign-marketplace](https://github.com/AdamJ/productdesign-marketplace)
 <!--END_SECTION:activity-->
 
 ---
