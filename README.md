@@ -20,13 +20,6 @@ With over 15 years designing enterprise applications at AWS, Red Hat, and high-g
 
 ![Static Badge](https://img.shields.io/badge/TimeTrackerPro-%231e40af?style=flat&logo=safari&link=https%3A%2F%2Ftimetrackerpro.adamjolicoeur.me) ![Static Badge](https://img.shields.io/badge/TimeTrackerPro-%23010101?style=flat&logo=GitHub&link=https%3A%2F%2Fwww.github.com/AdamJ/timetrackerpro)
 
-### GameTracker
-
-> A PWA providing users with the ability to track TCG (Tabletop Card Game) life totals, match histories, and tournament standings.
-
-![Static Badge](https://img.shields.io/badge/GameTracker-%233D684B?style=flat&logo=safari&link=https%3A%2F%2Fhttps://gametracker.productdesigns.net)
- ![Static Badge](https://img.shields.io/badge/GameTracker-%23010101?style=flat&logo=GitHub&link=https%3A%2F%2Fwww.github.com/AdamJ/timetrackerpro)
-
 ---
 
 ## Hacktoberfest
