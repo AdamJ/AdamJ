@@ -8,15 +8,15 @@ With over 15 years designing enterprise applications at AWS, Red Hat, and high-g
 
 ## Featured Projects
 
-### AdamJ.github.io
+### [AdamJ.github.io](https://www.github.com/AdamJ/AdamJ.github.io)
 
 > A personal portfolio site showcasing my work as a Lead Product Designer and Product Manager.
 
 ![Static Badge](https://img.shields.io/badge/adamjolicoeur.com-%23b34a2d?style=flat&logo=safari&link=https%3A%2F%2Fwww.adamjolicoeur.com) ![Static Badge](https://img.shields.io/badge/AdamJ.github.io-%23010101?style=flat&logo=GitHub&link=https%3A%2F%2Fwww.github.com/AdamJ/AdamJ.github.io)
 
-### TimeTracker Pro
+### [Timetraked](https://www.github.com/AdamJ/TimeTrackerPro)
 
-> A modern, feature-rich time tracking application built with React, TypeScript, and Tailwind CSS. Perfect for freelancers, consultants, and professionals who need to track time, manage projects, and generate invoices.
+> A modern, feature-rich time tracking application built with React, TypeScript, and Tailwind CSS. Perfect for freelancers, consultants, and professionals who need to track time, manage projects, and generate invoices. Runs as either a PWA or Electron app.
 
 ![Static Badge](https://img.shields.io/badge/TimeTrackerPro-%231e40af?style=flat&logo=safari&link=https%3A%2F%2Ftimetrackerpro.adamjolicoeur.me) ![Static Badge](https://img.shields.io/badge/TimeTrackerPro-%23010101?style=flat&logo=GitHub&link=https%3A%2F%2Fwww.github.com/AdamJ/timetrackerpro)
 
