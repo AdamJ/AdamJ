@@ -34,11 +34,11 @@ Each year, I participate in [Hacktoberfest](https://hacktoberfest.digitalocean.c
 <!-- Updates Every Monday at 11PM EST -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#404](https://github.com/AdamJ/AdamJ.github.io/pull/404) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-2. 💪 Opened PR [#404](https://github.com/AdamJ/AdamJ.github.io/pull/404) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-3. 🔒 Closed issue [#401](https://github.com/AdamJ/AdamJ.github.io/issues/401) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-4. 🎉 Merged PR [#403](https://github.com/AdamJ/AdamJ.github.io/pull/403) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-5. 💪 Opened PR [#403](https://github.com/AdamJ/AdamJ.github.io/pull/403) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+1. 🎉 Merged PR [#273](https://github.com/AdamJ/TimeTrackerPro/pull/273) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+2. ℹ️ Assigned PR [#273](https://github.com/AdamJ/TimeTrackerPro/pull/273) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+3. ℹ️ Labeled PR [#273](https://github.com/AdamJ/TimeTrackerPro/pull/273) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+4. ℹ️ Unlabeled PR [#273](https://github.com/AdamJ/TimeTrackerPro/pull/273) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
+5. 💪 Opened PR [#273](https://github.com/AdamJ/TimeTrackerPro/pull/273) in [AdamJ/TimeTrackerPro](https://github.com/AdamJ/TimeTrackerPro)
 <!--END_SECTION:activity-->
 
 ---
