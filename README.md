@@ -34,11 +34,11 @@ Each year, I participate in [Hacktoberfest](https://hacktoberfest.digitalocean.c
 <!-- Updates Every Monday at 11PM EST -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#407](https://github.com/AdamJ/AdamJ.github.io/pull/407#issuecomment-6426813164) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-2. 🗣 Commented on [#406](https://github.com/AdamJ/AdamJ.github.io/pull/406#issuecomment-6426813445) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-3. ❌ Closed PR [#406](https://github.com/AdamJ/AdamJ.github.io/pull/406) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-4. 💪 Opened PR [#407](https://github.com/AdamJ/AdamJ.github.io/pull/407) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
-5. 💪 Opened PR [#406](https://github.com/AdamJ/AdamJ.github.io/pull/406) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+1. 🎉 Merged PR [#408](https://github.com/AdamJ/AdamJ.github.io/pull/408) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+2. ℹ️ Assigned PR [#408](https://github.com/AdamJ/AdamJ.github.io/pull/408) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+3. 💪 Opened PR [#408](https://github.com/AdamJ/AdamJ.github.io/pull/408) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+4. 🎉 Merged PR [#407](https://github.com/AdamJ/AdamJ.github.io/pull/407) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
+5. ℹ️ Assigned PR [#407](https://github.com/AdamJ/AdamJ.github.io/pull/407) in [AdamJ/AdamJ.github.io](https://github.com/AdamJ/AdamJ.github.io)
 <!--END_SECTION:activity-->
 
 ---
